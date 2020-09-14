@@ -92,7 +92,7 @@ VIETmisc.8020.a;How inspiring! How touching!;Comme c'est inspirant ! C'est touch
 VIETmisc.8020.b;Give her a large tip.;Donnez-lui un gros pourboire.;;;;;;;;;;;;x
 VIETmisc.8020.c;I want her to become a musician at my court.;Je veux qu'elle devienne musicienne à ma cour.;;;;;;;;;;;;x
 VIETmisc.8020.d;I want her at my court, to perform music and other "amusements" for me.;Je la veux à ma cour, pour qu'elle joue de la musique et d'autres "amusements".;;;;;;;;;;;;x
-VIETmisc.8021.tooltip;\n\nSurely she would not refuse such an opportunity.;\n\nSurement, elle ne refuserait pas une telle occasion.;;;;;;;;;;x;x
+VIETmisc.8021.tooltip; \n\nSurely she would not refuse such an opportunity.; \n\nSurement, elle ne refuserait pas une telle occasion.;;;;;;;;;;x;x
 VIETmisc.8021.desc;The lady tells me such a thing would not be possible. She is about to marry a good young man, and cannot bear to leave him alone. She also wishes to continue living in a more familiar setting.;La dame me dit qu'une telle chose ne serait pas possible. Elle est sur le point d'épouser un bon jeune homme et ne peut pas le laisser seul. Elle souhaite également continuer à vivre dans un cadre plus familier.;;;;;;;;;;x;x
 VIETmisc.8021.a;What a pity. I understand, however.;Quel dommage. Je comprends cependant.;;;;;;;;;;;;x
 VIETmisc.8021.b;How dare she! It's her loss.;Comment ose-t-elle ! C'est sa perte.;;;;;;;;;;;;x
@@ -157,7 +157,7 @@ VIETmisc.8037.a;What a spirited young lady! I like her spark.;Quelle jeune femme
 VIETmisc.8037.b;If she wishes it, I shall oblige.;Si elle le souhaite, je vais obliger.;;;;;;;;;;;;x
 VIETmisc.8037.c;This is inappropriate! Women are weak, and it's dangerous out there.;Ça ne se fait pas! Les femmes sont faibles et c'est dangereux là-bas.;;;;;;;;;;;;x
 VIETmisc.8037.d;She is under my protection, so I can't let her wander off like that.;Elle est sous ma protection, je ne peux donc pas la laisser s'égarer comme ça.;;;;;;;;;;;;x
-VIETmisc.8038.tooltip;\n\nDespite the protests of some of your courtiers, you allow her to go as she wishes. She is clearly no dainty flower!;\n\nEn dépit des protestations de certains de vos courtisans, vous lui permettez de partir à sa guise. Elle n'est clairement pas une fleur délicate !;;;;;;;;;;x;x
+VIETmisc.8038.tooltip; \n\nDespite the protests of some of your courtiers, you allow her to go as she wishes. She is clearly no dainty flower!; \n\nEn dépit des protestations de certains de vos courtisans, vous lui permettez de partir à sa guise. Elle n'est clairement pas une fleur délicate !;;;;;;;;;;x;x
 VIETmisc.8038.desc;The young Chinese lady was most impressed with the local surroundings. She tells me her husband is an open-minded scholar and historian back in China, and the two of them enjoy discussing ancient cultures and peoples. She will definitely share her observations with her husband when she returns home, and he will undoubtedly write a glowing account of my realm!;La jeune femme chinoise a été très impressionnée par les environs. Elle me dit que son mari est un érudit et un historien à l'esprit ouvert, de retour en Chine, et qu'ils aiment discuter des cultures et des peuples antiques. Elle partagera certainement ses observations avec son mari à son retour à la maison et il écrira sans aucun doute un compte-rendu élogieux de mon royaume !;;;;;;;;;;x;x
 VIETmisc.8038.a;I am flattered!;Je suis flatté !;;;;;;;;;;;;x
 VIETmisc.8039.desc;As night fell, I found myself alone in my chambers. Suddenly - and I don't know how it started - I just began crying. I sobbed for what must have been hours, letting out all my pain and sadness. When it stopped, I felt a little better.;À la tombée de la nuit, je me suis retrouvé seul dans mes appartements. Tout à coup - et je ne sais pas comment cela a commencé - j'ai juste commencé à pleurer. J'ai sangloté pendant ce qui devait être des heures, laissant échapper toute ma douleur et ma tristesse. Quand ça s'est arrêté, je me suis senti un peu mieux.;;;;;;;;;;x;x
@@ -434,7 +434,7 @@ VIETmisc.8111.b;No! I'm fine!;Non ! Je vais bien !;;;;;;;;;;;;x
 VIETmisc.8112.desc;Lately, several incidents of grave robbing have been reported in a nearby cemetery. The grave robbers strike at night, when few are awake, and no one has been able to catch them yet. Perhaps if you were to dedicate a few soldiers to patrol the location, the criminals could be caught eventually.;Récemment, plusieurs incidents de vol de tombe ont été rapportés dans un cimetière voisin. Les pilleurs de tombes frappent la nuit, quand peu de gens sont réveillés et que personne n'a encore été capable de les attraper. Peut-être que si vous deviez affecter quelques soldats à la patrouille, les criminels pourraient éventuellement être attrapés.;;;;;;;;;;x;x
 VIETmisc.8112.a;Let's do that. This travesty cannot continue.;Faisons cela. Cette parodie ne peut pas continuer.;;;;;;;;;;;;x
 VIETmisc.8112.b;No, it would be a waste of resources.;Non, ce serait un gaspillage de ressources.;;;;;;;;;;;;x
-VIETmisc.8113.tooltip;\n\nThese wrongdoers will face justice soon!;\n\nCes malfaiteurs vont bientôt faire face à la justice !;;;;;;;;;;x;x
+VIETmisc.8113.tooltip; \n\nThese wrongdoers will face justice soon!; \n\nCes malfaiteurs vont bientôt faire face à la justice !;;;;;;;;;;x;x
 VIETmisc.8113.title;Grave Robbers Caught;Des voleurs graves pris;;;;;;;;;;x;x
 VIETmisc.8113.desc;Your trusty guards caught the grave robbers after only a few nights, as the robbers made a mistake - they dug what they thought was a grave, but it turned out to be a cache of ancient goods! They made a lot of noise, knocking down several ancient clay pots, and alerting your men.\n\nAfter you punished the criminals accordingly and awarded your men for their efforts, you now have to decide what to do with the cache of ancient goods. Most of them are worn out or broken, and will only be of interest to antiquarians and scholars, but one object remains in good condition: a lovely ancient pot, with intricate designs and decorations.;Vos fidèles gardes ont attrapé les pilleurs de tombes après seulement quelques nuits, alors qu'ils commettaient une erreur : ils ont creusé ce qu'ils pensaient être une tombe, mais il s'est avéré que c'était une cache de biens anciens ! Ils ont fait beaucoup de bruit, détruisant plusieurs anciens pots en argile et alertant vos hommes. \n\nAprès avoir puni les criminels en conséquence et récompensé vos hommes pour leurs efforts, vous devez maintenant décider quoi faire avec la cache de biens anciens. La plupart d'entre eux sont usés ou cassés et n'intéresseront que les antiquaires et les érudits, mais un objet reste en bon état : un joli pot ancien, avec des motifs et des décorations complexes.;;;;;;;;;;x;x
 VIETmisc.8113.a;This would make a nice decoration, wouldn't it?;Cela ferait une belle décoration, n'est-ce pas ?;;;;;;;;;;;;x
@@ -514,7 +514,7 @@ VIETmisc.8135.desc;As part of your official duties, you are meeting a group of s
 VIETmisc.8135.a;I'll take a nap - I'm the [Root.GetTitle], they won't protest!;Je vais faire une sieste - je suis le [Root.GetTitle], ils ne protesteront pas !;;;;;;;;;;;;x
 VIETmisc.8135.b;I'll pretend to listen while admiring the scenery.;Je ferai semblant d'écouter en admirant le paysage.;;;;;;;;;;;;x
 VIETmisc.8135.c;"Actually, according to the treatise written by...";"En fait, selon le traité écrit par...";;;;;;;;;;;;x
-VIET_scholar_lecture_correction;\n\nYou correct the scholars and impress them with your knowledge.;\n\nVous corrigez les savants et les impressionner avec vos connaissances.;;;;;;;;;;x;x
+VIET_scholar_lecture_correction; \n\nYou correct the scholars and impress them with your knowledge.; \n\nVous corrigez les savants et les impressionner avec vos connaissances.;;;;;;;;;;x;x
 VIETmisc.8136.desc;An ancient marble statue of a man was discovered buried in the wilderness. According to various scholars' assertions, it was perhaps made by ancient Romans or Hellenes many centuries ago. Regardless, perhaps you would like to keep this statue for yourself?;Une ancienne statue en marbre d'un homme a été découverte ensevelie dans le désert. Selon les affirmations de divers érudits, elle aurait été fait il y a plusieurs siècles par les anciens Romains ou Grecs. Quoi qu'il en soit, vous voudriez peut-être garder cette statue pour vous-même ?;;;;;;;;;;x;x
 VIETmisc.8136.a;Those chiseled muscles... I like them....;Ces muscles ciselés... je les aime...;;;;;;;;;;;;x
 VIETmisc.8136.b;I am not interested in keeping this false idol!;Garder cette fausse idole ne m'intéresse pas !;;;;;;;;;;;;x
@@ -559,7 +559,7 @@ VIETmisc.8145.desc;I am at a small feast, hosted by a local nobleman. One of his
 VIETmisc.8145.a;Give [Root.GetHerHim] some advice and kind words.;Donnez-lui des conseils et des mots gentils.;;;;;;;;;;;;x
 VIETmisc.8145.b;This is boring. I'll find someone else to talk to.;C'est ennuyant. Je vais trouver quelqu'un d'autre à qui parler.;;;;;;;;;;;;x
 VIETmisc.8145.c;I'll suggest to [Root.GetHerHisOpp] father that [Root.GetSheHeOpp] could join my court.;Je vais suggérer à son père qu'[Root.GetSheHeOpp] puisse rejoindre ma cour.;;;;;;;;;;;;x
-VIET_nice_day_with_you_around_tooltip;\n\n\nIt will undoubtedly offer better opportunities than living in this small mansion forever.;\n\n\nCela offrira sans aucun doute de meilleures opportunités que de vivre pour toujours dans ce petit manoir.;;;;;;;;;;x;x
+VIET_nice_day_with_you_around_tooltip; \n\n\nIt will undoubtedly offer better opportunities than living in this small mansion forever.; \n\n\nCela offrira sans aucun doute de meilleures opportunités que de vivre pour toujours dans ce petit manoir.;;;;;;;;;;x;x
 VIETmisc.8146.desc;A strange mercenary has come to my court from faraway lands. She is a woman, for one thing. Though not too old, she bears a number of battle wounds, and her demeanor suggests she is tough as nails. She tells me, if a bit ominously, "Death is my art, and like all artists, I seek a patron. For a mere handful of gold, I will follow you into any danger.";Un étrange mercenaire est venu à ma cour en provenance de pays lointains. Déjà c'est une femme. Bien qu'elle ne soit pas trop âgée, elle porte un certain nombre de blessures de combat et son comportement suggère qu'elle est dure comme les ongles. Elle me dit, même si c'est un peu inquiétant : "La mort est mon art et, comme tous les artistes, je cherche un protecteur. Pour une poignée d'or, je vous suivrai dans tous les dangers.";;;;;;;;;;x;x
 VIETmisc.8146.a;She's an unconventional sort, but hire her anyways!;Elle est peu conventionnelle, mais engagez-la quand même !;;;;;;;;;;;;x
 VIETmisc.8146.b;No, that's fine. Thank her for the offer nevertheless.;Non, c'est bon. La remercier pour l'offre quand même.;;;;;;;;;;;;x
@@ -592,7 +592,7 @@ VIETmisc.8152.desc;A maid is helping me clean out my room. She is infamous for h
 VIETmisc.8152.a;Don't talk such rot. I am your liege!;Ne parlez pas comme une telle pourriture. Je suis votre seigneur !;;;;;;;;;;;;x
 VIETmisc.8152.b;Ha ha! Funny as always!;Ha ha ! Drôle comme toujours !;;;;;;;;;;;;x
 VIETmisc.8152.c;I need more sharp, witty people like you at court.;J'ai besoin de personnes plus pointues et spirituelles comme vous à la cour.;;;;;;;;;;;;x
-VIET_why_hire_lydia;\n\n\nI don't trust those who use insincere smiles and dishonest flattery.;\n\n\nJe ne fais pas confiance à ceux qui utilisent des sourires non sincères et des flatteries malhonnêtes.;;;;;;;;;;x;x
+VIET_why_hire_lydia; \n\n\nI don't trust those who use insincere smiles and dishonest flattery.; \n\n\nJe ne fais pas confiance à ceux qui utilisent des sourires non sincères et des flatteries malhonnêtes.;;;;;;;;;;x;x
 VIETmisc.8153.desc;I come across a peasant on the road and try to talk with him. "Come to gawk at a [Root.Culture.GetName] commoner?" he snaps, before quickly apologizing, "I mean no offense. I am but a humble farmer. Not a... a great [Root.GetTitle], like you.";Je croise un paysan sur la route et essaie de lui parler. "Vous venez admirer un roturier [Root.Culture.GetName] ?" Dit-il avant de s'excuser, "je ne veux pas offenser. Je ne suis qu'un humble fermier. Pas un ... un grand [Root.GetTitle], comme vous.";;;;;;;;;;x;x
 VIETmisc.8153.a;No worries. Are you doing alright?;Pas de soucis. Est-ce que ça va bien ?;;;;;;;;;;;;x
 VIETmisc.8153.b;Insolent wretch! I was trying to be friendly!;Misérable insolent ! J'essayais d'être amical !;;;;;;;;;;;;x
@@ -608,7 +608,7 @@ VIETmisc.8155.a;Sure! Always glad to lend a hand.;Pour sûr ! Toujours heureux de
 VIETmisc.8155.b;You're on your own, stranger.;Vous êtes seul, étranger.;;;;;;;;;;;;x
 VIETmisc.8155.c;Something seems fishy. We should leave.;Quelque chose semble louche. Nous devrions partir.;;;;;;;;;;;;x
 VIETmisc.8155.d;Something seems fishy. Let's help, but be on your guard, men.;Quelque chose semble louche. Aidez-nous, mais soyez sur vos gardes, messieurs.;;;;;;;;;;;;x
-VIETmisc.8156.tooltip;\n\n\nYou agree to help the merchant.;\n\n\nVous acceptez d'aider le commerçant.;;;;;;;;;;x;x
+VIETmisc.8156.tooltip; \n\n\nYou agree to help the merchant.; \n\n\nVous acceptez d'aider le commerçant.;;;;;;;;;;x;x
 VIETmisc.8156.desc;The merchant happily leads you back to his camp at a surprisingly brisk pace. Once you approach the camp, however, you realize there are heavily armored men around. The ‘merchant' shouts to the men, "Looks like we've got ourselves another fool!";Le marchand vous ramène joyeusement dans son camp à un rythme étonnamment rapide. Cependant, une fois que vous approchez du camp, vous réalisez qu'il y a des hommes bien équipés autour. Le "marchand" crie aux hommes : "On dirait que nous avons nous-mêmes un autre imbécile !";;;;;;;;;;x;x
 VIETmisc.8156.a;You and your men fought off the bandits and escaped.;Vous et vos hommes avez combattu les bandits et vous vous êtes échappés.;;;;;;;;;;;;x
 VIETmisc.8156.b;You and your men fought the bandits and killed them all.;Vous et vos hommes avez combattu les bandits et les avez tous tués.;;;;;;;;;;;;x
@@ -790,8 +790,8 @@ VIETmisc.8200.c;Hah, men! He'll find a prostitute once he's bored with her.;Hah,
 VIETmisc.8200.d;I can help pay for their wedding. They'll have my blessing.;Je peux aider à payer pour leur mariage. Ils auront ma bénédiction.;;;;;;;;;;;;x
 VIETmisc.8200.e;What an adorable couple! I can pay for the wedding. ;Quel couple adorable ! Je peux payer pour le mariage.;;;;;;;;;;;;x
 VIETmisc.8200.f;I've a twisted idea! I'll marry her off to an ugly worm.;J'ai une idée tordue ! Je vais la marier à un vilain ver.;;;;;;;;;;;;x
-VIET_ugly_guy_new_wife_event_text;\n\nI love making people suffer! My pathetic loser of a courtier will have a new wife at last. Imagine the girl having a miserable life with my pathetic loser of a courtier! Imagine the boy seeing his beloved with such an unworthy ruffian! Ha ha! Life is terrible!;\n\nJ'aime faire souffrir les gens ! Mon pauvre perdant de courtisan aura enfin une nouvelle femme. Imaginez la fille ayant une vie misérable avec mon perdant pathétique de courtisan ! Imaginez le garçon en train de voir sa bien-aimée avec un homme aussi indigne ! Ha ha ! La vie est terrible !;;;;;;;;;;x;x
-VIET_ugly_guy_new_wife_event_no_courtier_text;\n\nI love making people suffer! Imagine the girl having a miserable life with a pathetic loser! Imagine the boy seeing his beloved with such an unworthy ruffian! Ha ha! Life is terrible!;\n\nJ'aime faire souffrir les gens ! Imaginez la fille ayant une vie misérable avec un perdant pathétique ! Imaginez le garçon en train de voir sa bien-aimée avec un homme aussi indigne ! Ha ha ! La vie est terrible !;;;;;;;;;;x;x
+VIET_ugly_guy_new_wife_event_text; \n\nI love making people suffer! My pathetic loser of a courtier will have a new wife at last. Imagine the girl having a miserable life with my pathetic loser of a courtier! Imagine the boy seeing his beloved with such an unworthy ruffian! Ha ha! Life is terrible!; \n\nJ'aime faire souffrir les gens ! Mon pauvre perdant de courtisan aura enfin une nouvelle femme. Imaginez la fille ayant une vie misérable avec mon perdant pathétique de courtisan ! Imaginez le garçon en train de voir sa bien-aimée avec un homme aussi indigne ! Ha ha ! La vie est terrible !;;;;;;;;;;x;x
+VIET_ugly_guy_new_wife_event_no_courtier_text; \n\nI love making people suffer! Imagine the girl having a miserable life with a pathetic loser! Imagine the boy seeing his beloved with such an unworthy ruffian! Ha ha! Life is terrible!; \n\nJ'aime faire souffrir les gens ! Imaginez la fille ayant une vie misérable avec un perdant pathétique ! Imaginez le garçon en train de voir sa bien-aimée avec un homme aussi indigne ! Ha ha ! La vie est terrible !;;;;;;;;;;x;x
 VIETmisc.8201.desc;xxxxx;xxxxx;;;;;;;;;;x;x
 VIETmisc.8201.a;Xxxxxxffff;Xxxxxxffff;;;;;;;;;;;;x
 VIETmisc.8202.desc;Though you wouldn't think it, many herbalists and physicians believe that tea made from the petals and fruit of the rose has a number of beneficial medicinal properties. It is a good thing you are drinking some today, then.;Bien que vous ne le pensiez pas, de nombreux herboristes et médecins pensent que le thé à base de pétales et de fruits de rose a plusieurs propriétés médicinales bénéfiques. C'est une bonne chose que vous en buviez aujourd'hui, alors.;;;;;;;;;;x;x
@@ -828,14 +828,14 @@ VIETmisc.8210.a;It is not my duty to get involved in these petty squabbles.;Je n
 VIETmisc.8210.b;The harlot deserves it. She should have known better.;La prostituée le mérite. Elle aurait dû mieux le savoir.;;;;;;;;;;;;x
 VIETmisc.8210.c;I'll force this dishonorable nobleman to pay the family a fine.;Je vais forcer ce noble déshonorant à payer une amende à la famille.;;;;;;;;;;;;x
 VIETmisc.8210.d;If she is no longer wanted, I will offer her a place at my court.;Si elle n'est plus désirée, je lui offrirai une place à ma cour.;;;;;;;;;;;;x
-VIET_dishonored_maiden_ignore;\n\nHuman nature is full of such pettiness, and this is but another instance.;\n\nLa nature humaine est pleine d'une telle petitesse, et ceci n'est qu'un autre cas.;;;;;;;;;;x;x
-VIET_dishonored_maiden_scorn;\n\nLet her foolishness be a warning to everyone about the dangers of temptation.;\n\nQue sa folie soit un avertissement à tous sur les dangers de la tentation.;;;;;;;;;;x;x
-VIET_dishonored_maiden_compromise;\n\nWe can only improve our community if we punish those who threaten its morals.;\n\nNous ne pouvons améliorer notre communauté que si nous punissons ceux qui la menacent.;;;;;;;;;;x;x
-VIET_dishonored_maiden_help;\n\nUpon arriving at your court, the girl thanks you for offering her another chance.;\n\nEn arrivant à votre cour, la fille vous remercie de lui offrir une autre chance.;;;;;;;;;;x;x
+VIET_dishonored_maiden_ignore; \n\nHuman nature is full of such pettiness, and this is but another instance.; \n\nLa nature humaine est pleine d'une telle petitesse, et ceci n'est qu'un autre cas.;;;;;;;;;;x;x
+VIET_dishonored_maiden_scorn; \n\nLet her foolishness be a warning to everyone about the dangers of temptation.; \n\nQue sa folie soit un avertissement à tous sur les dangers de la tentation.;;;;;;;;;;x;x
+VIET_dishonored_maiden_compromise; \n\nWe can only improve our community if we punish those who threaten its morals.; \n\nNous ne pouvons améliorer notre communauté que si nous punissons ceux qui la menacent.;;;;;;;;;;x;x
+VIET_dishonored_maiden_help; \n\nUpon arriving at your court, the girl thanks you for offering her another chance.; \n\nEn arrivant à votre cour, la fille vous remercie de lui offrir une autre chance.;;;;;;;;;;x;x
 VIETmisc.8211.desc;It took years, but we've finally captured one of the most notorious bandits in the region. When he is brought before me, he admits to being an "obtainer of goods, taker of lives, and defiler of daughters." He shrugs off any threat of torture and death, saying this isn't the first time he's caught by the authorities, and that he'd take it as a personal insult if no one wanted him dead.;Cela a pris des années, mais nous avons finalement capturé l'un des bandits les plus notoires de la région. Lorsqu'il est amené devant moi, il admet être un "acquéreur de biens, preneur de vies, et profane de filles". Il ignore toute menace de torture et de mort, affirmant que ce n'est pas la première fois qu'il est attrapé par les autorités et qu'il le prendrait comme une insulte personnelle si personne ne voulait sa mort.;;;;;;;;;;x;x
 VIETmisc.8211.a;Let's not tarry for too long then. Execute him.;Ne tardons pas trop alors. Exécutez-le.;;;;;;;;;;;;x
 VIETmisc.8211.b;I could use someone with such skills and tenacity.;Je pourrais utiliser quelqu'un avec de telles compétences et ténacité.;;;;;;;;;;;;x
-VIET_hire_vasha_choice;\n\nThough he is a bandit, he is known for having his own twisted sense of honor. He says he will serve you loyally if you pardon him, and allow him to murder, steal, and rape as long as it is directed against your enemies. Given his talents, this might be a controversial but beneficial deal.;\n\nSi c'est un bandit, il est connu pour son sens de l'honneur tordu. Il dit qu'il vous servira loyalement si vous lui pardonnez et lui permettez d'assassiner, de voler et de violer tant qu'il est dirigé contre vos ennemis. Compte tenu de ses talents, cela pourrait être un accord controversé mais bénéfique.;;;;;;;;;;x;x
+VIET_hire_vasha_choice; \n\nThough he is a bandit, he is known for having his own twisted sense of honor. He says he will serve you loyally if you pardon him, and allow him to murder, steal, and rape as long as it is directed against your enemies. Given his talents, this might be a controversial but beneficial deal.; \n\nSi c'est un bandit, il est connu pour son sens de l'honneur tordu. Il dit qu'il vous servira loyalement si vous lui pardonnez et lui permettez d'assassiner, de voler et de violer tant qu'il est dirigé contre vos ennemis. Compte tenu de ses talents, cela pourrait être un accord controversé mais bénéfique.;;;;;;;;;;x;x
 VIETmisc.8212.desc;[target_VIET_claiming_to_be_womanizer.GetTitledName] is boasting about how he has deflowered plenty of innocent young maidens. He takes a perverse pleasure in casually recounting his deeds for any willing to listen. "Those little girls are easy prey," he explains. "Say some silly words, and they'll fall into your arms!" ;[target_VIET_claiming_to_be_womanizer.GetTitledName] se vante de la façon dont il a défloré beaucoup de jeunes filles innocentes. Il prend un plaisir pervers à raconter ses actes avec désinvolture à ceux qui sont disposés à les écouter. "Ces petites filles sont des proies faciles", explique-t-il. "Dis des mots stupides, et ils vont tomber dans tes bras !";;;;;;;;;;x;x
 VIETmisc.8212.a;With such a lifestyle, you'll surely be punished in the afterlife.;Avec un tel style de vie, vous serez sûrement puni dans l'au-delà.;;;;;;;;;;;;x
 VIETmisc.8212.b;I've had my share of conquests, and your methods are amateurish.;J'ai eu ma part de conquêtes et vos méthodes sont amateur.;;;;;;;;;;;;x
@@ -848,8 +848,8 @@ VIETmisc.8213.b;Go to a whorehouse already! Then you'll be a true man!;Aller à u
 VIETmisc.8213.c;Don't listen what others say, it's not their business.;N'écoutez pas ce que les autres disent, ce n'est pas leur affaire.;;;;;;;;;;;;x
 VIETmisc.8213.d;Let me teach you a thing or two about women.;Laissez-moi vous apprendre une chose ou deux sur les femmes.;;;;;;;;;;;;x
 VIETmisc.8213.e;Today's your lucky day! I'll teach you all about the arts of love.;Aujourd'hui, c'est votre jour de chance ! Je vais tout vous apprendre sur les arts de l'amour.;;;;;;;;;;;;x
-VIET_virgin_accepts_advice;\n\n[target_VIET_inexperienced_man.GetTitledName] heeds your advice, and spends an unforgettable night at a nearby brothel, learning about the pleasures of the flesh.;\n\n [target_VIET_inexperienced_man.GetTitledName] tient compte de vos conseils et passe une nuit inoubliable dans une maison close à proximité, découvrant les plaisirs de la chair.;;;;;;;;;;;;x
-VIET_virgin_rejects_advice;\n\n[target_VIET_inexperienced_man.GetTitledName] rejects your advice for whatever reason.;\n\n [target_VIET_inexperienced_man.GetTitledName] rejette votre conseil pour une raison quelconque.;;;;;;;;;;;;x
+VIET_virgin_accepts_advice; \n\n[target_VIET_inexperienced_man.GetTitledName] heeds your advice, and spends an unforgettable night at a nearby brothel, learning about the pleasures of the flesh.; \n\n [target_VIET_inexperienced_man.GetTitledName] tient compte de vos conseils et passe une nuit inoubliable dans une maison close à proximité, découvrant les plaisirs de la chair.;;;;;;;;;;;;x
+VIET_virgin_rejects_advice; \n\n[target_VIET_inexperienced_man.GetTitledName] rejects your advice for whatever reason.; \n\n [target_VIET_inexperienced_man.GetTitledName] rejette votre conseil pour une raison quelconque.;;;;;;;;;;;;x
 VIETmisc.8214.desc;A traveler brought with them several interesting foods to present to my court. One of them was a vegetable called broccoli, which is not too popular or well-known outside of Italy and certain parts of the Mediterranean. Its head is similar to cauliflower, but its stem is more like asparagus.;Un voyageur a apporté avec lui plusieurs aliments intéressants à présenter à ma cour. L'un d'entre eux était un légume appelé brocoli, qui n'est ni trop populaire ni bien connu en dehors de l'Italie et de certaines parties de la Méditerranée. Sa tête est semblable au chou-fleur, mais sa tige ressemble plus à de l'asperge.;;;;;;;;;;x;x
 VIETmisc.8214.a;Fascinating. I'll sample a bit.;Fascinant. Je vais goûter un peu.;;;;;;;;;;;;x
 VIETmisc.8214.b;I want to keep some of this broccoli for my cooks to use.;Je veux garder une partie de ce brocoli pour que mes cuisiniers l'utilisent.;;;;;;;;;;;;x
@@ -896,7 +896,7 @@ VIETmisc.8226.d;She shyly holds my hand.;Elle me tient timidement la main.;;;;;;
 VIET_kdrama_lewd_handholding;We're both nervous, so much that even holding hands like this feels intense. But it's the first important step!;Nous sommes tous les deux nerveux, à tel point que même se tenir la main comme ça se devient intense. Mais c'est la première étape importante !;;;;;;;;;;x;x
 VIET_kdrama_dramatic_confession;I have nothing to lose. My friend must know now, before it's too late! A delay of one moment, and this opportunity could be gone - forever.;Je n'ai rien à perdre. Mon amie doit savoir maintenant, avant qu'il ne soit trop tard ! Un délai d'un instant et cette opportunité pourraient disparaître - pour toujours.;;;;;;;;;;x;x
 VIET_kdrama_tsundere;I am absolutely incapable of discussing things like an adult, because matters of love are so sensitive and tricky.;Je suis absolument incapable de discuter de choses comme un adulte, car les questions d'amour sont si sensibles et délicates.;;;;;;;;;;x;x
-VIET_kdrama_be_handheld;I didn't expect them to be so bold. To do something so aggressive and forward... at least for a first step.;Je ne m'attendais pas à ce qu'elle soit si audacieuse. Faire quelque chose d'aussi agressif et en avant… au moins pour un premier pas.;;;;;;;;;;x;x
+VIET_kdrama_be_handheld;I didn't expect them to be so bold. To do something so aggressive and forward... at least for a first step.;Je ne m'attendais pas à ce qu'elle soit si audacieuse. Faire quelque chose d'aussi agressif et en avant... au moins pour un premier pas.;;;;;;;;;;x;x
 VIETmisc.8227.title;Love?;Amour ?;;;;;;;;;;x;x
 VIETmisc.8227.desc;She is about to say something, to respond to me, to say what had been on her mind for what must have been more than a decade, since we played under the old tree by my grandfather's house as children. I hold my breath, waiting to hear what is to come out of her mouth, what will change our lives forever, and she finally cries for the first time in years as she says -\n\nI wake up, confused.\n\nA few moments pass, and I worry about where that girl is. And then I realize I am not that handsome, brooding boy, but [Root.GetTitledName]. It takes me several minutes before I remember how to distinguish between reality and that dream.;Elle est sur le point de dire quelque chose, de me répondre, de dire ce qui la tracassait depuis plus de dix ans, depuis que nous avons joué sous le vieil arbre près de la maison de mon grand-père. Je retiens mon souffle en attendant d'entendre ce qui va sortir de sa bouche, ce qui changera notre vie à jamais, et elle pleure enfin pour la première fois depuis des années, comme elle le dit - \n\nJe me réveille confus. \n\n Quelques secondes s'écoulent et je me demande où est cette fille. Et puis je réalise que je ne suis pas ce beau garçon, mais [Root.GetTitledName]. Il me faut plusieurs minutes avant de me rappeler comment distinguer la réalité de ce rêve.;;;;;;;;;;x;x
 VIETmisc.8227.a;Or at least I think this is reality.;Ou du moins je pense que c'est la réalité.;;;;;;;;;;;;x
@@ -945,7 +945,7 @@ VIETmisc.8243.desc;You meet a wanderer from a land far away, who recently travel
 VIETmisc.8243.a;Siblings are more important than wives or children.;Les frères et sœurs sont plus importants que les épouses ou les enfants.;;;;;;;;;;;;x
 VIETmisc.8243.b;How terrible! Our children are our future!;Comme c'est terrible ! Nos enfants sont notre avenir !;;;;;;;;;;;;x
 VIETmisc.8243.c;Disagreed. Wives are important, we should respect them.;Pas d'accord. Les femmes sont importantes, nous devrions les respecter.;;;;;;;;;;;;x
-VIETmisc.8244.desc;Lately, I have been reading about the heroes and villains of the Three Kingdoms, that era of disunity and conflict in China when the Han Dynasty collapsed into civil war. For centuries, people have told many stories, some more fantastical than others, about the deeds and exploits of this fascinating cast of characters. I in particular have an admiration for the…;Dernièrement, j'ai lu des articles sur les héros et les méchants des Trois Royaumes, cette période de désunion et de conflit en Chine lorsque la dynastie des Han s'est effondrée dans la guerre civile. Pendant des siècles, les gens ont raconté de nombreuses histoires, certaines plus fantastiques que d'autres, sur les actes et les exploits de cette fascinante distribution de personnages. J'ai en particulier une admiration pour ...;;;;;;;;;;x;x
+VIETmisc.8244.desc;Lately, I have been reading about the heroes and villains of the Three Kingdoms, that era of disunity and conflict in China when the Han Dynasty collapsed into civil war. For centuries, people have told many stories, some more fantastical than others, about the deeds and exploits of this fascinating cast of characters. I in particular have an admiration for the...;Dernièrement, j'ai lu des articles sur les héros et les méchants des Trois Royaumes, cette période de désunion et de conflit en Chine lorsque la dynastie des Han s'est effondrée dans la guerre civile. Pendant des siècles, les gens ont raconté de nombreuses histoires, certaines plus fantastiques que d'autres, sur les actes et les exploits de cette fascinante distribution de personnages. J'ai en particulier une admiration pour ...;;;;;;;;;;x;x
 VIETmisc.8244.a;Warlords who sought to create order from chaos.;Les chefs de guerre qui ont cherché à créer de l'ordre à partir du chaos.;;;;;;;;;;;;x
 VIETmisc.8244.b;Generals who bravely fought on the battlefield.;Les généraux qui ont bravement combattu sur le champ de bataille.;;;;;;;;;;;;x
 VIETmisc.8244.c;Strategists who determined the fates of many.;Les stratèges qui ont déterminé le destin de beaucoup.;;;;;;;;;;;;x
@@ -981,7 +981,7 @@ VIETmisc.8250.b;Support the local notables. We must be cautious with outsiders.;
 VIETmisc.8250.c;Support neither - let them sort this out on their own!;Ne soutenez ni l'un ni l'autre - laissez-les régler eux-mêmes !;;;;;;;;;;;;x
 VIETmisc.8250.d;Invite an Italian merchant to my court as a representative.;Inviter un marchand italien à ma cour en tant que représentant.;;;;;;;;;;;;x
 VIET_italian_merchant_negotiation_cool;That way, we'll have clearer lines of communication. If I and my officials know what the Italians want, it'll be easier to negotiate with them or even manipulate them to our ends!;De cette façon, nous aurons des lignes de communication plus claires. Si mes fonctionnaires et moi-même savons ce que veulent les Italiens, il sera plus facile de négocier avec eux ou même de les manipuler à nos fins !;;;;;;;;;;x;x
-VIETmisc.8251.desc;An acquaintance recently returned from a trip to Constantinople. They regale you with tales of the wonders and splendor of the great city, and you listen with eager ears. There are many stories that you would like to hear about, many things you wish to learn, and in particular, you are most interested in learning about the…;Une connaissance est récemment revenue d'un voyage à Constantinople. Il vous régale d'histoires sur les merveilles et la splendeur de la grande ville et vous écoutez avec une oreille avide. Il y a beaucoup d'histoires dont vous aimeriez entendre parler, beaucoup de choses que vous souhaitez apprendre, et en particulier, vous êtes plus intéressé par l'apprentissage …;;;;;;;;;;x;x
+VIETmisc.8251.desc;An acquaintance recently returned from a trip to Constantinople. They regale you with tales of the wonders and splendor of the great city, and you listen with eager ears. There are many stories that you would like to hear about, many things you wish to learn, and in particular, you are most interested in learning about the...;Une connaissance est récemment revenue d'un voyage à Constantinople. Il vous régale d'histoires sur les merveilles et la splendeur de la grande ville et vous écoutez avec une oreille avide. Il y a beaucoup d'histoires dont vous aimeriez entendre parler, beaucoup de choses que vous souhaitez apprendre, et en particulier, vous êtes plus intéressé par l'apprentissage ...;;;;;;;;;;x;x
 VIETmisc.8251.a;Dark depths of court intrigue and politics in the ancient city;Des profondeurs obscures de l'intrigue de la cour et de la politique dans la ville antique;;;;;;;;;;;;x
 VIETmisc.8251.b;Pleasure to be had with its courtesans and entertainers;Du plaisir d'être avec ses courtisanes et ses artistes;;;;;;;;;;;;x
 VIETmisc.8251.c;Trade that flows from all corners of the world;Du commerce qui coule des quatre coins du monde;;;;;;;;;;;;x
@@ -1019,7 +1019,7 @@ VIETmisc.8258.c;I don't need it. I have all I need here.;Je n'en ai pas besoin. 
 VIETmisc.8259.desc;I meet a local village elder, a wizened old man, who was a foolhardy adventurer in his youth. He once got lost in a great forest, and almost drowned in its swamps. He was rescued by a mysterious man who referred to himself only as a dreamer and who warned about the seductive dangers of excitement and risk. Afterwards, the old man lived a stable, quiet, happy life back home.;Je rencontre un ancien du village, un vieil homme rêveur, aventurier téméraire dans sa jeunesse. Il s'est une fois égaré dans une grande forêt et s'est presque noyé dans ses marécages. Il a été sauvé par un homme mystérieux qui se considérait comme un rêveur et qui mettait en garde contre les dangers séduisants de l'excitation et du risque. Ensuite, le vieil homme a vécu une vie stable, paisible et heureuse chez lui.;;;;;;;;;;x;x
 VIETmisc.8259.a;Agreed! Only idiots blindly worship excitement and ambition.;D'accord ! Seuls les idiots vénèrent aveuglément l'excitation et l'ambition.;;;;;;;;;;;;x
 VIETmisc.8259.b;I disagree. What's the point of living a boring life?;Je ne suis pas d'accord. Quel est le point de vivre une vie ennuyeuse ?;;;;;;;;;;;;x
-VIETmisc.8259.c;Wait a moment… did you meet the Dreamer?;Attendez un instant… avez-vous rencontré le rêveur ?;;;;;;;;;;;;x
+VIETmisc.8259.c;Wait a moment... did you meet the Dreamer?;Attendez un instant... avez-vous rencontré le rêveur ?;;;;;;;;;;;;x
 VIETmisc.8260.desc;Among the nomad peoples of Eurasia, there are stories of an immortal horse, forever racing across the great steppes, free and bold. The galloping of the mighty steed's hooves sound like thunder, and it is faster than anything one could see.;Parmi les peuples nomades de l'Eurasie, il y a des histoires d'un cheval immortel, courant toujours à travers les grandes steppes, libre et audacieux. Le galop des sabots du puissant cheval sonne comme un tonnerre et il est plus rapide que tout ce que l'on pouvait voir.;;;;;;;;;;x;x
 VIETmisc.8260.a;Maybe one day I shall see it!;Peut-être qu'un jour je le verrai !;;;;;;;;;;;;x
 VIETmisc.8260.b;A fanciful tale, nothing more.;Un conte fantaisiste, rien de plus.;;;;;;;;;;;;x
@@ -1086,14 +1086,14 @@ VIETmisc.8276.b;Ignore it, ignore it, ignore it, ignore it!;Ignorer, ignorer, ig
 VIETmisc.8276.c;Actually it was pretty funny.;En fait, c'était assez drôle.;;;;;;;;;;;;x
 VIETmisc.8277.desc;Lightning struck really close to me, but thankfully nothing happened!;La foudre a frappé très près de moi, mais heureusement rien ne s'est passé !;;;;;;;;;;x;x
 VIETmisc.8277.a;I was really lucky.;J'ai vraiment eu de la chance.;;;;;;;;;;;;x
-VIETmisc.8278.desc;I am visiting a village in my realm on some business. Before I leave, I stop by an herbalist's shop on a whim. I never realized there were so many different kinds of herbs, plants, minerals, and so on that one could use to make potions and poisons! The herbalist, an older woman with a stern face, looked annoyed at me for mindlessly loitering, but said nothing.;Je visite un village de mon royaume pour des affaires. Avant de partir, je m'arrête chez un herboriste sur un coup de tête. Je n'avais jamais réalisé qu'il y avait tellement de sortes d'herbes, de plantes, de minéraux, etc. que l'on pourrait utiliser pour fabriquer des potions et des poisons ! L’herboriste, une femme plus âgée au visage sévère, me regarda avec agacement pour avoir flâné sans réfléchir, mais ne dit rien.;;;;;;;;;;x;x
+VIETmisc.8278.desc;I am visiting a village in my realm on some business. Before I leave, I stop by an herbalist's shop on a whim. I never realized there were so many different kinds of herbs, plants, minerals, and so on that one could use to make potions and poisons! The herbalist, an older woman with a stern face, looked annoyed at me for mindlessly loitering, but said nothing.;Je visite un village de mon royaume pour des affaires. Avant de partir, je m'arrête chez un herboriste sur un coup de tête. Je n'avais jamais réalisé qu'il y avait tellement de sortes d'herbes, de plantes, de minéraux, etc. que l'on pourrait utiliser pour fabriquer des potions et des poisons ! L'herboriste, une femme plus âgée au visage sévère, me regarda avec agacement pour avoir flâné sans réfléchir, mais ne dit rien.;;;;;;;;;;x;x
 VIETmisc.8278.a;Can I purchase some for my physicians to use?;Puis-je en acheter pour mes médecins ?;;;;;;;;;;;;x
 VIETmisc.8278.b;I just wanted to browse for fun.;Je voulais juste parcourir pour s'amuser.;;;;;;;;;;;;x
 VIETmisc.8278.c;This is probably useless quack medicine anyways.;De toute façon, c'est probablement un médicament de charlatan inutile.;;;;;;;;;;;;x
 VIETmisc.8279.desc;A wild wolf was spotted wandering near where you live. It does not appear to be an immediate danger to anyone, but no one knows what to do with it. Whenever you are nearby, it seems to stay back and stare at you with a serious expression, as if it were showing some sign of respect.;Un loup sauvage a été repéré errant près de chez vous. Cela ne semble pas constituer un danger immédiat pour quiconque, mais personne ne sait quoi en faire. Chaque fois que vous êtes à proximité, il semble rester en arrière et vous regarder avec une expression sérieuse, comme si cela montrait un signe de respect.;;;;;;;;;;x;x
 VIETmisc.8279.a;Order my soldiers to chase it away. It's a danger.;Ordonnez à mes soldats de le chasser. C'est un danger.;;;;;;;;;;;;x
 VIETmisc.8279.b;If it wishes to stick around, I shall respect it.;S'il veut rester, je le respecterai.;;;;;;;;;;;;x
-VIETmisc.8280.desc;You were retiring for the night when you saw a most alarming sight on your bed: a single dagger, coated in blood. An investigation did not turn up any information as to who put it there and why. A few of your courtiers and guards suggest it may have been a prank.;Vous vous retiriez pour la nuit lorsque vous avez vu une vue extrêmement alarmante sur votre lit : un seul poignard couvert de sang. Une enquête n’a pas permis de déterminer qui l’avait mis là et pourquoi. Quelques-uns de vos courtisans et de vos gardes suggèrent que c'était peut-être une farce.;;;;;;;;;;x;x
+VIETmisc.8280.desc;You were retiring for the night when you saw a most alarming sight on your bed: a single dagger, coated in blood. An investigation did not turn up any information as to who put it there and why. A few of your courtiers and guards suggest it may have been a prank.;Vous vous retiriez pour la nuit lorsque vous avez vu une vue extrêmement alarmante sur votre lit : un seul poignard couvert de sang. Une enquête n'a pas permis de déterminer qui l'avait mis là et pourquoi. Quelques-uns de vos courtisans et de vos gardes suggèrent que c'était peut-être une farce.;;;;;;;;;;x;x
 VIETmisc.8280.a;This is concerning! Increase security immediately!;C'est préoccupant ! Augmentez la sécurité immédiatement !;;;;;;;;;;;;x
 VIETmisc.8280.b;Maybe it was a prank indeed.;C'était peut-être une blague.;;;;;;;;;;;;x
 VIETmisc.8280.c;Even if it wasn't a prank, I laugh in the face of danger!;Même si ce n'était pas une farce, je ris devant le danger !;;;;;;;;;;;;x
@@ -1105,7 +1105,7 @@ VIETmisc.8282.desc;The blacksmiths of [Root.GetName] have gained renowned in rec
 VIETmisc.8282.a;Good to hear!;Bon à entendre !;;;;;;;;;;;;x
 VIETmisc.8283.desc;I attended a ball at a local nobleman's house, and met a most interesting person. We talked about all sorts of things and had a great time. Unfortunately they had to leave early, and I didn't even get their name!;J'ai assisté à un bal chez un noble local et rencontré une personne des plus intéressantes. Nous avons parlé de toutes sortes de choses et passé un bon moment. Malheureusement, ils ont dû partir tôt et je n'ai même pas eu leur nom !;;;;;;;;;;x;x
 VIETmisc.8283.a;Who was that?;Qui était-ce ?;;;;;;;;;;;;x
-VIETmisc.8284.desc;I dreamt of traveling to a magnificent, mighty castle, so large and immense it towered over everything in nearby territory, even the forests and the mountains. It was an imposing sight!;Je rêvais de me rendre dans un magnifique et puissant château, si grand et si immense qu’il dominait tout sur le territoire voisin, même les forêts et les montagnes. C'était un spectacle imposant !;;;;;;;;;;x;x
+VIETmisc.8284.desc;I dreamt of traveling to a magnificent, mighty castle, so large and immense it towered over everything in nearby territory, even the forests and the mountains. It was an imposing sight!;Je rêvais de me rendre dans un magnifique et puissant château, si grand et si immense qu'il dominait tout sur le territoire voisin, même les forêts et les montagnes. C'était un spectacle imposant !;;;;;;;;;;x;x
 VIETmisc.8284.a;When I woke up, I wondered what it was all about.;Quand je me suis réveillé, je me suis demandé de quoi il s'agissait.;;;;;;;;;;;;x
 VIETmisc.8285.desc;There are those who say China, the Middle Kingdom, is the most civilized of nations, that its laws are the most just, its officials the most righteous, its land the most prosperous, its people the most virtuous, its culture the most refined. Surely this must be true!;Il y a ceux qui disent que la Chine, le royaume du milieu, est la nation la plus civilisée, que ses lois sont les plus justes, ses fonctionnaires les plus justes, sa terre la plus prospère, son peuple le plus vertueux, sa culture la plus raffinée. Cela doit sûrement être vrai !;;;;;;;;;;x;x
 VIETmisc.8285.a;We should be proud of our [Root.Culture.GetName] ways too.;Nous devrions également être fiers de nos méthodes [Root.Culture.GetName].;;;;;;;;;;;;x
@@ -1115,7 +1115,7 @@ VIETmisc.8286.desc;A prominent nobleman was recently injured severely, and a phy
 VIETmisc.8286.a;The physician did it on purpose, imprison him!;Le médecin l'a fait exprès, emprisonnez-le !;;;;;;;;;;;;x
 VIETmisc.8286.b;The physician made a mistake, but is innocent. He will pay a fine.;Le médecin a commis une erreur, mais est innocent. Il va payer une amende.;;;;;;;;;;;;x
 VIETmisc.8286.c;The physician did his best. The family should drop the case.;Le médecin a fait de son mieux. La famille devrait laisser tomber l'affaire.;;;;;;;;;;;;x
-VIETmisc.8286.d;The physician did nothing wrong. The injury the nobleman had…;Le médecin n'a rien fait de mal. La blessure que le noble avait…;;;;;;;;;;;;x
+VIETmisc.8286.d;The physician did nothing wrong. The injury the nobleman had...;Le médecin n'a rien fait de mal. La blessure que le noble avait...;;;;;;;;;;;;x
 VIETmisc.8287.desc;A notorious criminal recently escaped my prisons and afterwards went on a murder spree. He was subsequently captured and immediately executed by my guards on the spot, but this will undoubtedly be a stain on my authority.;Un criminel notoire s'est récemment échappé de mes prisons pour ensuite se lancer dans une série de meurtres. Il a ensuite été capturé et immédiatement exécuté par mes gardes sur place, mais ce sera sans aucun doute une tache sur mon autorité.;;;;;;;;;;x;x
 VIETmisc.8287.a;Terrible news!;Terrible nouvelle !;;;;;;;;;;;;x
 VIETmisc.8288.desc;They say a benevolent spirit resides in a small forest in [Root.GetName]. There are many stories circulating about how it has protected children that got lost in the woods at night, or how it helped hunters defeat dangerous predators.;Ils disent qu'un esprit bienveillant réside dans une petite forêt de [Root.GetName]. Beaucoup d'histoires circulent sur la manière dont il protège les enfants qui se sont perdus dans les bois la nuit ou aide les chasseurs à vaincre de dangereux prédateurs.;;;;;;;;;;x;x
@@ -1141,7 +1141,7 @@ VIETmisc.8294.a;Attila was like the coming of the apocalypse!;Attila était comme
 VIETmisc.8294.b;Alaric's sacking of Rome is legendary in its brutality.;Le pillage de Rome par Alaric est légendaire dans sa brutalité.;;;;;;;;;;;;x
 VIETmisc.8294.c;Genseric's daring and cunning is underrated in these annals.;L'audace et la ruse de Genseric sont sous-estimées dans ces annales.;;;;;;;;;;;;x
 VIETmisc.8294.d;Odoacer has earned his place in history for his deed.;Odoacre a mérité sa place dans l'histoire pour son acte.;;;;;;;;;;;;x
-VIETmisc.8295.desc;The gold and salt mines of West Africa are many, and bring forth much wealth to the region. Yet there are rumors, legends and stories, about how beyond the grasslands and jungles, there are even wealthier kingdoms and cities that make the West African lords look impoverished by comparison. Could such places exist?;Les mines d’or et de sel de l’Afrique de l’Ouest sont nombreuses et apportent beaucoup de richesses à la région. Pourtant, il existe des rumeurs, des légendes et des histoires sur le fait qu’au-delà des prairies et des jungles, il existe des royaumes et des villes encore plus riches qui comparent les seigneurs de l’Afrique de l’Ouest à l’appauvrissement. De tels endroits pourraient-ils exister ?;;;;;;;;;;x;x
+VIETmisc.8295.desc;The gold and salt mines of West Africa are many, and bring forth much wealth to the region. Yet there are rumors, legends and stories, about how beyond the grasslands and jungles, there are even wealthier kingdoms and cities that make the West African lords look impoverished by comparison. Could such places exist?;Les mines d'or et de sel de l'Afrique de l'Ouest sont nombreuses et apportent beaucoup de richesses à la région. Pourtant, il existe des rumeurs, des légendes et des histoires sur le fait qu'au-delà des prairies et des jungles, il existe des royaumes et des villes encore plus riches qui comparent les seigneurs de l'Afrique de l'Ouest à l'appauvrissement. De tels endroits pourraient-ils exister ?;;;;;;;;;;x;x
 VIETmisc.8295.a;Surely not. The Sahelian kingdoms are rich beyond measure.;Sûrement pas. Les royaumes sahéliens sont riches.;;;;;;;;;;;;x
 VIETmisc.8295.b;I think they do exist! The world out there is vast.;Je pense qu'ils existent ! Le monde est vaste.;;;;;;;;;;;;x
 VIETmisc.8295.c;Who could possibly be richer than the [Root.Culture.GetName] people?;Qui pourrait être plus riche que le peuple [Root.Culture.GetName] ?;;;;;;;;;;;;x
@@ -1153,7 +1153,7 @@ VIETmisc.8296.d;Let's show this to other scholars, see what they think.;Montrons
 VIETmisc.8297.desc;It was my first time at that tavern. I only came there to visit a member of the local elites, but the tavern's staff and regulars greeted me warmly and presented a gift of a simple but beautifully carved wooden bowl as a souvenir. It's not the usual thing a great [Root.GetTitle] would use, but it is mine to keep, if I so wish.;C'était ma première fois à cette taverne. Je ne suis venu que pour rendre visite à un membre des élites locales, mais le personnel et les habitués de la taverne m'ont salué chaleureusement et m'ont offert en cadeau un bol en bois simple mais magnifiquement sculpté. Ce n'est pas la chose habituelle qu'un grand [Root.GetTitle] utiliserait, mais c'est à moi de le garder, si je le souhaite.;;;;;;;;;;x;x
 VIETmisc.8297.a;Of course, I appreciate it.;Bien sûr, je l'apprécie.;;;;;;;;;;;;x
 VIETmisc.8297.b;No thanks! This is worthless!;Non merci ! Ceci ne vaut rien !;;;;;;;;;;;;x
-VIETmisc.8298.desc;There is a pewter spoon I am very fond of. Even though it is not the most dignified looking thing, maybe I should use it more regularly just in case.;Il y a une cuillère en étain que j'aime beaucoup. Même si ce n’est pas l’aspect le plus digne, je devrais peut-être l’utiliser plus régulièrement au cas où.;;;;;;;;;;x;x
+VIETmisc.8298.desc;There is a pewter spoon I am very fond of. Even though it is not the most dignified looking thing, maybe I should use it more regularly just in case.;Il y a une cuillère en étain que j'aime beaucoup. Même si ce n'est pas l'aspect le plus digne, je devrais peut-être l'utiliser plus régulièrement au cas où.;;;;;;;;;;x;x
 VIETmisc.8298.a;A good idea.;Une bonne idée.;;;;;;;;;;;;x
 VIETmisc.8298.b;There are better spoons out there.;Il y a de meilleures cuillères là-bas.;;;;;;;;;;;;x
 VIETmisc.8299.desc;I found a solid measuring rod, made of hardy stone. It could come in handy in the future, and help me with a variety of tasks and matters.;J'ai trouvé une tige de mesure solide en pierre robuste. Cela pourrait s'avérer utile dans le futur et m'aider dans une variété de tâches et de sujets.;;;;;;;;;;x;x
@@ -1162,7 +1162,7 @@ VIETmisc.8299.b;I am not a lowly commoner playing with tools.;Je ne suis pas un 
 VIETmisc.8300.desc;"A wonderful flower vase, for a wonderful [Root.GetTitle]," the merchant says, before presenting a luxurious looking flower vase. It is definitely of higher quality and better than the average flower vase! Should you buy it?;"Un magnifique vase de fleurs, pour un magnifique [Root.GetTitle]", dit le marchand, avant de présenter un vase de fleurs de luxe. Il est certainement de meilleure qualité et meilleur que le vase à fleurs commun ! Devriez-vous l'acheter ?;;;;;;;;;;x;x
 VIETmisc.8300.a;Yes, I should!;Oui je devrais!;;;;;;;;;;;;x
 VIETmisc.8300.b;No, I should not.;Non, je ne devrais pas.;;;;;;;;;;;;x
-VIETmisc.8301.desc;I have acquired a leather knapsack for holding things. It's not the most beautiful thing ever made, but the craftsman who made it certainly designed it to have a rustic, simplistic charm.;J'ai acquis un sac à dos en cuir pour ranger des objets. Ce n’est pas la plus belle chose qui ait jamais été faite, mais l’artisan qui l’a fabriqué l'a certainement conçu pour offrir un charme rustique et simpliste.;;;;;;;;;;x;x
+VIETmisc.8301.desc;I have acquired a leather knapsack for holding things. It's not the most beautiful thing ever made, but the craftsman who made it certainly designed it to have a rustic, simplistic charm.;J'ai acquis un sac à dos en cuir pour ranger des objets. Ce n'est pas la plus belle chose qui ait jamais été faite, mais l'artisan qui l'a fabriqué l'a certainement conçu pour offrir un charme rustique et simpliste.;;;;;;;;;;x;x
 VIETmisc.8301.a;Who knows how it could help me?;Qui sait comment cela pourrait m'aider ?;;;;;;;;;;;;x
 VIETmisc.8301.b;This is rubbish, give it a servant or dispose of it.;C'est de la foutaise, donnez-le à un serviteur ou jetez-le.;;;;;;;;;;;;x
 VIETmisc.8302.desc;One of my guards recently got lost in the desert. Thankfully, it wasn't for long and he made it back to civilization safely. However, while he was in the desert, he came across a small ancient ruin, where he found a most interesting small statue. It was clearly made by the ancients, and he asks me if I want to keep it.;Un de mes gardes s'est récemment perdu dans le désert. Heureusement, ce n'était pas pour longtemps et il est revenu à la civilisation en toute sécurité. Cependant, alors qu'il était dans le désert, il rencontra une petite ruine ancienne où il trouva une petite statue des plus intéressantes. Elle a clairement été faite par les anciens et il me demande si je veux la garder.;;;;;;;;;;x;x
@@ -1173,13 +1173,13 @@ VIETmisc.8303.a;I will keep it, thanks.;Je vais la garder, merci.;;;;;;;;;;;;x
 VIETmisc.8303.b;I will keep it, but compensate the peasant.;Je vais la garder, mais indemniser la paysanne.;;;;;;;;;;;;x
 VIETmisc.8303.c;The peasant lady can keep it for herself.;La paysanne peut la garder pour elle.;;;;;;;;;;;;x
 VIETmisc.8303.d;Throw it away! It was clearly made by demon worshippers!;Jetez-la ! C'était clairement fait par les adorateurs de démon s!;;;;;;;;;;;;x
-VIETmisc.8304.desc;Some merchants I am acquainted with wished to offer me a present. It turned out to be a weighing scale, made with fine materials.;Certains marchands que je connais souhaitent m'offrir un cadeau. Il s’est avéré qu’il s’agissait d’une balance avec des matériaux fins.;;;;;;;;;;x;x
+VIETmisc.8304.desc;Some merchants I am acquainted with wished to offer me a present. It turned out to be a weighing scale, made with fine materials.;Certains marchands que je connais souhaitent m'offrir un cadeau. Il s'est avéré qu'il s'agissait d'une balance avec des matériaux fins.;;;;;;;;;;x;x
 VIETmisc.8304.a;This will surely be useful!;Ce sera sûrement utile !;;;;;;;;;;;;x
 VIETmisc.8304.b;I don't need that, but thank you nonetheless.;Je n'ai pas besoin de ça, mais merci quand même.;;;;;;;;;;;;x
 VIETmisc.8305.desc;You came across a hammer one day, and like how firm it feels in your hand. Though you are not a common craftsman, you can't help but admire this hammer. After all, aren't buildings, ships, and other great constructs made with such a simple thing? Perhaps even a great [Root.GetTitle] like you might have a use for it one day.;Vous êtes tombé sur un marteau un jour et vous aimez sa fermeté dans la main. Bien que vous ne soyez pas un artisan ordinaire, vous ne pouvez pas vous empêcher d'admirer ce marteau. Après tout, les bâtiments, les navires et autres super constructions ne sont-ils pas faits avec une chose aussi simple ? Peut-être même qu'un grand [Root.GetTitle] comme vous en aurait-il un usage un jour.;;;;;;;;;;x;x
 VIETmisc.8305.a;I will keep it by my side.;Je vais le garder à mes côtés.;;;;;;;;;;;;x
 VIETmisc.8305.b;It is interesting, but nothing more.;C'est intéressant, mais rien de plus.;;;;;;;;;;;;x
-VIETmisc.8306.desc;I recently needed to repair part of my residence, so I hired some laborers to do the job. While I was inspecting their work, I noticed one man had a particularly fascinating shovel with him. Despite its simplicity and crudeness, it clearly displayed a sturdiness and power not typically seen in such a simple tool. The laborer, seeing my admiration for it, says I can keep it if I want.;J'ai récemment eu besoin de réparer une partie de ma résidence et j'ai donc engagé des ouvriers pour faire le travail. En inspectant leur travail, j'ai remarqué qu'un homme avait avec lui une pelle particulièrement fascinante. Malgré sa simplicité et sa grossièreté, elle affichait clairement une robustesse et une puissance que l’on ne retrouve généralement pas dans un outil aussi simple. Le travailleur, voyant mon admiration pour elle, dit que je peux la garder si je veux.;;;;;;;;;;x;x
+VIETmisc.8306.desc;I recently needed to repair part of my residence, so I hired some laborers to do the job. While I was inspecting their work, I noticed one man had a particularly fascinating shovel with him. Despite its simplicity and crudeness, it clearly displayed a sturdiness and power not typically seen in such a simple tool. The laborer, seeing my admiration for it, says I can keep it if I want.;J'ai récemment eu besoin de réparer une partie de ma résidence et j'ai donc engagé des ouvriers pour faire le travail. En inspectant leur travail, j'ai remarqué qu'un homme avait avec lui une pelle particulièrement fascinante. Malgré sa simplicité et sa grossièreté, elle affichait clairement une robustesse et une puissance que l'on ne retrouve généralement pas dans un outil aussi simple. Le travailleur, voyant mon admiration pour elle, dit que je peux la garder si je veux.;;;;;;;;;;x;x
 VIETmisc.8306.a;That sounds splendid. Thank you!;Cela semble magnifique. Je vous remercie !;;;;;;;;;;;;x
 VIETmisc.8306.b;No thanks, I just wanted a look.;Non merci, je voulais juste un coup d'œil.;;;;;;;;;;;;x
 VIETmisc.8307.desc;I met a merchant specializing in beautiful works of art that would be excellent as home decorations. He showed me one particular painting he thought I might be interested in: a simple depiction of a lovely lake surrounded by fertile land, all under a beautiful, clear blue sky.;J'ai rencontré un marchand spécialisé dans de belles œuvres d'art qui seraient excellentes pour la décoration de la maison. Il m'a montré un tableau en particulier qui, à mon avis, pourrait m'intéresser : une simple représentation d'un joli lac entouré de terres fertiles, le tout sous un beau ciel bleu clair.;;;;;;;;;;x;x
@@ -1198,305 +1198,437 @@ VIETmisc.8311.desc;I can see the mountains from my home on a regular basis. It r
 VIETmisc.8311.a;A majestic and inspiring sight!;Un spectacle majestueux et inspirant !;;;;;;;;;;;;x
 VIETmisc.8312.desc;I was traveling at night with a group of people. "We must move with haste, or else they'll catch us!" someone said.\n\nSuddenly, there was screams and fire. "Ambush! Run for it!" someone shouts. Too late - the next thing I knew, I was hit with  several arrows.;Je voyageais la nuit avec un groupe de personnes. "Nous devons partir à la hâte, sinon ils nous attraperont !" dit quelqu'un.\n\n Soudain, il y eut des cris et du feu. "Embuscade ! Courez !" quelqu'un crie. Trop tard - ce que je savais ensuite, j'ai été frappé par plusieurs flèches.;;;;;;;;;;x;x
 VIETmisc.8312.a;Then I woke up. What a nightmare!;Puis je me suis réveillé. Quel cauchemard !;;;;;;;;;;;;x
-VIETmisc.8313.desc;Unsavory bandits blackmailed the orphaned, young nobleman into making a number of deals with them, which they of course reneged on. They decided they wanted to kill him and tried to storm his residence, but with luck and some quick thinking, the man managed to escape his enemies. Now he comes to you, begging for your protection.;Des bandits peu ragoûtants ont fait chanter le jeune orphelin en lui faisant passer un certain nombre de contrats, qu’ils ont bien sûr reniés. Ils ont décidé qu'ils voulaient le tuer et ont tenté de prendre d'assaut sa résidence, mais avec de la chance et une réflexion rapide, l'homme a réussi à échapper à ses ennemis. Maintenant, il vient à vous, implorant votre protection.;;;;;;;;;;x;x
+VIETmisc.8313.desc;Unsavory bandits blackmailed the orphaned, young nobleman into making a number of deals with them, which they of course reneged on. They decided they wanted to kill him and tried to storm his residence, but with luck and some quick thinking, the man managed to escape his enemies. Now he comes to you, begging for your protection.;Des bandits peu ragoûtants ont fait chanter le jeune orphelin en lui faisant passer un certain nombre de contrats, qu'ils ont bien sûr reniés. Ils ont décidé qu'ils voulaient le tuer et ont tenté de prendre d'assaut sa résidence, mais avec de la chance et une réflexion rapide, l'homme a réussi à échapper à ses ennemis. Maintenant, il vient à vous, implorant votre protection.;;;;;;;;;;x;x
 VIETmisc.8313.a;I can afford to send a few guards to take care of these criminals.;Je peux me permettre d'envoyer quelques gardes s'occuper de ces criminels.;;;;;;;;;;;;x
 VIETmisc.8313.b;This is not my problem. Figure this out on your own!;Ce n'est pas mon problème. Trouve-le toi-même !;;;;;;;;;;;;x
 VIETmisc.8313.c;Stay at my court, where you will be safe.;Reste à ma cour, où tu seras en sécurité.;;;;;;;;;;;;x
 VIETmisc.8314.desc;Unnerving news from [Root.GetName]. There was a village there that was relatively prosperous and sizeable. However, recently, all of its inhabitants simply vanished. People from nearby settlements organized search parties, and even some of your local officials went to investigate the matter, but no one from that village was ever found. Now, all that remains is the wind whistling through the village, dark, abandoned, and lifeless.;Des nouvelles intempestives de [Root.GetName]. Il y avait un village relativement prospère et important. Cependant, récemment, tous ses habitants ont tout simplement disparu. Des personnes des colonies voisines ont organisé des groupes de recherche, et même certains de vos responsables locaux sont allés enquêter sur la question, mais personne de ce village n'a jamais été retrouvé. Maintenant, il ne reste que le vent qui siffle dans le village, sombre, abandonné et sans vie.;;;;;;;;;;x;x
 VIETmisc.8314.a;What on earth happened to that village?;Qu'est-ce qui est arrivé à ce village ?;;;;;;;;;;;;x
-VIETmisc.8315.desc;Two commoners from powerful local families recently wed in [Root.GetName] - the groom a handsome, intelligent, virtuous youth, and the bride a beautiful, clever, gentle maiden. The two were apparently friends as children, and the match a perfect and blissful one. During the wedding, to the amazement of all, the clouds appeared in the shape of various good omens, and some claim that they heard sounds and voices from heaven above blessing this marriage!;Deux citoyens ordinaires appartenant à de puissantes familles locales se sont récemment mariés à [Root.GetName] - le marié, un jeune beau, intelligent et vertueux, et la mariée, une belle, intelligente et douce jeune fille. Les deux étaient apparemment des amis enfants et l’union était parfaite et heureuse. Pendant le mariage, à la stupéfaction de tous, les nuages ??sont apparus sous la forme de divers bons présages, et certains affirment avoir entendu des sons et des voix du ciel au-dessus de la bénédiction de ce mariage !;;;;;;;;;;x;x
+VIETmisc.8315.desc;Two commoners from powerful local families recently wed in [Root.GetName] - the groom a handsome, intelligent, virtuous youth, and the bride a beautiful, clever, gentle maiden. The two were apparently friends as children, and the match a perfect and blissful one. During the wedding, to the amazement of all, the clouds appeared in the shape of various good omens, and some claim that they heard sounds and voices from heaven above blessing this marriage!;Deux citoyens ordinaires appartenant à de puissantes familles locales se sont récemment mariés à [Root.GetName] - le marié, un jeune beau, intelligent et vertueux, et la mariée, une belle, intelligente et douce jeune fille. Les deux étaient apparemment des amis enfants et l'union était parfaite et heureuse. Pendant le mariage, à la stupéfaction de tous, les nuages ??sont apparus sous la forme de divers bons présages, et certains affirment avoir entendu des sons et des voix du ciel au-dessus de la bénédiction de ce mariage !;;;;;;;;;;x;x
 VIETmisc.8315.a;Interesting news.;Nouvelles intéressantes.;;;;;;;;;;;;x
-VIETmisc.8316.desc;I was playing outside with one of my friends from the village, running around and laughing, with not a care in the world.;;;;;;;;;;;x
-VIETmisc.8316.a;Suddenly, [Root.GetSheHeOpp] looks up.;;;;;;;;;;;;;x
-VIETmisc.8317.tooltip; \n\nWhat is it?;;;;;;;;;;;x
-VIETmisc.8317.desc;It begins raining out of nowhere, and within seconds the drizzle turns into a raging storm. “Hurry!” [Root.GetSheHeOpp] calls to me;;;;;;;;;;;x
-VIETmisc.8317.a;We rush to find cover under a large boulder.;;;;;;;;;;;;;x
-VIETmisc.8318.tooltip;That was a close one!;;;;;;;;;;;x
-VIETmisc.8318.desc;We huddle under the boulder, waiting for the rain to stop. The storm clears up about an hour later, but I realize my friend has fallen asleep, [Root.GetHerHisOpp] head resting on my shoulder!;;;;;;;;;;;x
-VIETmisc.8318.a;Let [Root.GetHerHisOpp] sleep... [Root.GetSheHeOpp] looks angelic.;;;;;;;;;;;;;x
-VIETmisc.8318.b;Gently wake [Root.GetHerHisOpp] up.;;;;;;;;;;;;;x
-VIETmisc.8318.c;Prank [Root.GetHerHisOpp] to make [Root.GetHerHisOpp] wake up.;;;;;;;;;;;;;x
-VIETmisc.8319.desc;The rain fell harder earlier today, but now it has lessened to a light drizzle, so you and a few courtiers go outside to experience the fresh air. [target_VIET_rain_puddle_dancer.GetTitledName] suddenly starts hopping around in one of the puddles like a child, laughing and splashing around.;;;;;;;;;;;x
-VIETmisc.8319.a;Stop that now! How immature!;;;;;;;;;;;;;x
-VIETmisc.8319.b;That looks fun, but I'll stay out.;;;;;;;;;;;;;x
-VIETmisc.8319.c;Let me join in!;;;;;;;;;;;;;x
-VIETmisc.8320.desc;It is raining heavily today. I sit by the window, gazing outside.;;;;;;;;;;;x
-VIETmisc.8320.a;This weather is so depressing.;;;;;;;;;;;;;x
-VIETmisc.8320.b;I love rain - it is so healing.;;;;;;;;;;;;;x
-VIETmisc.8321.desc;A large cistern was discovered in [Root.GetName]. It seems to have been used by ancient peoples to collect rainwater, and as it is still in relatively good condition, the locals plan to refurbish and reuse it. Perhaps we can lend some funds to help them in this endeavor? The economic and social benefits would be considerable.;;;;;;;;;;;x
-VIETmisc.8321.a;Great idea! Lend them some financial support.;;;;;;;;;;;;;x
-VIETmisc.8321.b;I will fully fund their efforts.;;;;;;;;;;;;;x
-VIETmisc.8321.c;I have no interest in helping.;;;;;;;;;;;;;x
-VIETmisc.8322.desc;Today it is raining, yet the sun is still shining!;;;;;;;;;;;x
-VIETmisc.8322.a;Amazing sight!;;;;;;;;;;;;;x
-VIETmisc.8323.desc;Last night the rain was so heavy a part of my house collapsed and flooded. I will now have to dedicate some funds to fixing and restoring the mess.;;;;;;;;;;;x
-VIETmisc.8323.a;As if I didn't have enough problems.;;;;;;;;;;;;;x
-VIETmisc.8324.desc;In parts of [Root.GetName], colorful rain was reported to have fallen for several days. After some deliberation, locals consider this to be a good omen of things to come.;;;;;;;;;;;x
-VIETmisc.8324.a;Good to hear.;;;;;;;;;;;;;x
-VIETmisc.8325.desc;In parts of [Root.GetName], colorful rain was reported to have fallen for several days. After some deliberation, locals consider this to be a bad omen of things to come.;;;;;;;;;;;x
-VIETmisc.8325.a;Oh no....;;;;;;;;;;;;;x
-VIETmisc.8326.desc;The book I read looked like a typical vapid romance at first. Instead, it was an epic love story with drama, comedy and tragedy, that raised poignant, difficult questions about human morality and mortality. Immensely moved, I now find it hard to fall asleep at night as I think about the characters I’d grown to love and their bittersweet fates. Will I ever read a story like that again?;;;;;;;;;;;x
-VIETmisc.8326.a;I never expected to like that kind of story in the first place! ;;;;;;;;;;;;;x
-VIETmisc.8327.desc;I was watching a play a traveling troupe was performing. Though it was a short and simple love story without much drama or conflict, the characters were likeable and realistic in their motivations and desires. Despite its simplicity and lack of tension, many in the audience loved the story.;;;;;;;;;;;x
-VIETmisc.8327.a;Those plebians - it’s just some banal fluff!;;;;;;;;;;;;;x
-VIETmisc.8327.b;I admit, it brought a smile to my face.;;;;;;;;;;;;;x
-VIETmisc.8328.desc;A poet is reciting a tale about a historical event long ago before me and an audience. I realize he just made a mistake, and there are some inaccuracies in his retelling of what happened!;;;;;;;;;;;x
-VIETmisc.8328.a;Don’t say anything.;;;;;;;;;;;;;x
-VIETmisc.8328.b;Correct him - history should not be lies!;;;;;;;;;;;;;x
-VIETmisc.8328.c;Correct him - the true history is more interesting.;;;;;;;;;;;;;x
-VIETmisc.8328.d;Correct him - I want to show off my knowledge.;;;;;;;;;;;;;x
-VIETmisc.8329.desc;The book you are reading is dense and full of complex ideas about philosophy and the meaning of life. Even though the characters, plot, and setting are interesting, the book itself is an extremely difficult read and you feel like you cannot finish it.;;;;;;;;;;;x
-VIETmisc.8329.a;Bear through it - I must discover its meaning!;;;;;;;;;;;;;x
-VIETmisc.8329.b;I give up! I have better things to do.;;;;;;;;;;;;;x
-VIETmisc.8330.desc;I was idly reading a book about historical events in ancient times. Suddenly, when I came across a particular section, disjointed images and scenes flashed before my mind, as if I was really there. My servants found me on the ground moments later, having fainted. They were skeptical when I described what happened, but the feelings of sadness, joy, hatred, love - I felt all that!;;;;;;;;;;;x
-VIETmisc.8330.a;Was I really there, in the past? Why am I here now?;;;;;;;;;;;;;x
-VIETmisc.8331.desc;You recently took the time to read through various books explaining the exploits and deeds of ancient heroes and warriors. It was informative, and helped you to better understand:;;;;;;;;;;;x
-VIETmisc.8331.a;Which tactics and strategies work, and which ones don’t.;;;;;;;;;;;;;x
-VIETmisc.8331.b;What makes a person brave and able to fight the odds.;;;;;;;;;;;;;x
-VIETmisc.8331.c;How to uphold justice and righteousness among all.;;;;;;;;;;;;;x
-VIETmisc.8332.desc;You recently read a touching story about a pure-hearted romance between a young man and woman who had grown up as neighbors and friends. Their virtue and honesty helped them ensure many hardships so they could be united in marriage.;;;;;;;;;;;x
-VIETmisc.8332.a;I hate stupid love stories. Why did I read that?;;;;;;;;;;;;;x
-VIETmisc.8332.b;It was an adorable tale about true love.;;;;;;;;;;;;;x
-VIETmisc.8333.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8333.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8334.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8334.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8335.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8335.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8336.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8336.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8337.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8337.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8338.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8338.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8339.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8339.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8340.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8340.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8341.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8341.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8342.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8342.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8343.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8343.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8344.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8344.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8345.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8345.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8346.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8346.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8347.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8347.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8348.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8348.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8349.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8349.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8350.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8350.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8351.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8351.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8352.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8352.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8353.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8353.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8354.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8354.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8355.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8355.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8356.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8356.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8357.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8357.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8358.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8358.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8359.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8359.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8360.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8360.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8361.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8361.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8362.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8362.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8363.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8363.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8364.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8364.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8365.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8365.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8366.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8366.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8367.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8367.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8368.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8368.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8369.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8369.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8370.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8370.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8371.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8371.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8372.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8372.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8373.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8373.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8374.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8374.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8375.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8375.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8376.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8376.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8377.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8377.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8378.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8378.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8379.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8379.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8380.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8380.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8381.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8381.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8382.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8382.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8383.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8383.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8384.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8384.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8385.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8385.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8386.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8386.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8387.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8387.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8388.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8388.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8389.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8389.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8390.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8390.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8391.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8391.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8392.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8392.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8393.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8393.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8394.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8394.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8395.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8395.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8396.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8396.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8397.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8397.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8398.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8398.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8399.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8399.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8400.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8400.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8401.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8401.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8402.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8402.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8403.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8403.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8404.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8404.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8405.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8405.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8406.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8406.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8407.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8407.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8408.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8408.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8409.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8409.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8410.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8410.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8411.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8411.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8412.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8412.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8413.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8413.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8414.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8414.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8415.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8415.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8416.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8416.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8417.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8417.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8418.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8418.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8419.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8419.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8420.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8420.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8421.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8421.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8422.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8422.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8423.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8423.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8424.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8424.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8425.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8425.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8426.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8426.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8427.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8427.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8428.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8428.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8429.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8429.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8430.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8430.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8431.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8431.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8432.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8432.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8433.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8433.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8434.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8434.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8435.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8435.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8436.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8436.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8437.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8437.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8438.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8438.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8439.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8439.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8440.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8440.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8441.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8441.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8442.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8442.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8443.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8443.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8444.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8444.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8445.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8445.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8446.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8446.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8447.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8447.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8448.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8448.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8449.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8449.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8450.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8450.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8451.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8451.a;Xxxxxxffff;;;;;;;;;;;;;x
-VIETmisc.8452.desc;xxxxx;;;;;;;;;;;x
-VIETmisc.8452.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8316.desc;I was playing outside with one of my friends from the village, running around and laughing, with not a care in the world.;Je jouais dehors avec un de mes amis du village, je courais partout et je riais, sans souci du monde.;;;;;;;;;;x;x
+VIETmisc.8316.a;Suddenly, [Root.GetSheHeOpp] looks up.;Soudain, [Root.GetSheHeOpp] lève les yeux.;;;;;;;;;;;;x
+VIETmisc.8317.tooltip; \n\nWhat is it?; \n\nQu'est-ce que c'est ?;;;;;;;;;;x;x
+VIETmisc.8317.desc;It begins raining out of nowhere, and within seconds the drizzle turns into a raging storm. "Hurry!" [Root.GetSheHeOpp] calls to me;Il commence à pleuvoir de nulle part, et en quelques secondes la bruine se transforme en tempête déchaînée. "Dépêchez-vous !" [Root.GetSheHeOpp] m'appelle;;;;;;;;;;x;x
+VIETmisc.8317.a;We rush to find cover under a large boulder.;Nous nous précipitons pour trouver un abri sous un gros rocher.;;;;;;;;;;;;x
+VIETmisc.8318.tooltip;That was a close one!;C'était proche !;;;;;;;;;;x;x
+VIETmisc.8318.desc;We huddle under the boulder, waiting for the rain to stop. The storm clears up about an hour later, but I realize my friend has fallen asleep, [Root.GetHerHisOpp] head resting on my shoulder!;Nous nous blottissons sous le rocher, attendant que la pluie cesse. La tempête s'éclaircit environ une heure plus tard, mais je me rends compte que mon ami s'est endormi, [Root.GetHerHisOpp] tête de posée sur mon épaule !;;;;;;;;;;x;x
+VIETmisc.8318.a;Let [Root.GetHerHisOpp] sleep... [Root.GetSheHeOpp] looks angelic.;Laissez [Root.GetHerHisOpp] dormir ... [Root.GetSheHeOpp] a l'air angélique.;;;;;;;;;;;;x
+VIETmisc.8318.b;Gently wake [Root.GetHerHisOpp] up.;Réveillez-[Root.GetHerHisOpp] doucement.;;;;;;;;;;;;x
+VIETmisc.8318.c;Prank [Root.GetHerHisOpp] to make [Root.GetHerHisOpp] wake up.;Lui faire une blague pour [Root.GetHerHisOpp] réveiller.;;;;;;;;;;;;x
+VIETmisc.8319.desc;The rain fell harder earlier today, but now it has lessened to a light drizzle, so you and a few courtiers go outside to experience the fresh air. [target_VIET_rain_puddle_dancer.GetTitledName] suddenly starts hopping around in one of the puddles like a child, laughing and splashing around.;La pluie est tombée plus fort plus tôt dans la journée, mais maintenant elle a diminué pour devenir une légère bruine, donc vous et quelques courtisans sortez pour profiter de l'air frais. [target_VIET_rain_puddle_dancer.GetTitledName] commence soudainement à sauter dans l'une des flaques comme un enfant, à rire et à barboter.;;;;;;;;;;x;x
+VIETmisc.8319.a;Stop that now! How immature!;Arrête ça maintenant ! Quel immature !;;;;;;;;;;;;x
+VIETmisc.8319.b;That looks fun, but I'll stay out.;Ça a l'air amusant, mais je vais rester en dehors.;;;;;;;;;;;;x
+VIETmisc.8319.c;Let me join in!;Laisse-moi participer !;;;;;;;;;;;;x
+VIETmisc.8320.desc;It is raining heavily today. I sit by the window, gazing outside.;Il pleut beaucoup aujourd'hui. Je m'assois près de la fenêtre, regardant dehors.;;;;;;;;;;x;x
+VIETmisc.8320.a;This weather is so depressing.;Ce temps est si déprimant.;;;;;;;;;;;;x
+VIETmisc.8320.b;I love rain - it is so healing.;J'adore la pluie - elle guérit tellement.;;;;;;;;;;;;x
+VIETmisc.8321.desc;A large cistern was discovered in [Root.GetName]. It seems to have been used by ancient peoples to collect rainwater, and as it is still in relatively good condition, the locals plan to refurbish and reuse it. Perhaps we can lend some funds to help them in this endeavor? The economic and social benefits would be considerable.;Une grande citerne a été découverte dans [Root.GetName]. Elle semble avoir été utilisée par les anciens peuples pour collecter l'eau de pluie, et comme elle est encore en assez bon état, les habitants prévoient de la rénover et de la réutiliser. Peut-être pouvons-nous prêter des fonds pour les aider dans cette entreprise ? Les avantages économiques et sociaux seraient considérables.;;;;;;;;;;x;x
+VIETmisc.8321.a;Great idea! Lend them some financial support.;Bonne idée ! Apportez-leur un soutien financier.;;;;;;;;;;;;x
+VIETmisc.8321.b;I will fully fund their efforts.;Je financerai pleinement leurs efforts.;;;;;;;;;;;;x
+VIETmisc.8321.c;I have no interest in helping.;Je n'ai aucun intérêt à aider.;;;;;;;;;;;;x
+VIETmisc.8322.desc;Today it is raining, yet the sun is still shining!;Aujourd'hui, il pleut, mais le soleil brille toujours !;;;;;;;;;;x;x
+VIETmisc.8322.a;Amazing sight!;Vue incroyable !;;;;;;;;;;;;x
+VIETmisc.8323.desc;Last night the rain was so heavy a part of my house collapsed and flooded. I will now have to dedicate some funds to fixing and restoring the mess.;La nuit dernière, la pluie a été si forte qu'une partie de ma maison s'est effondrée et est inondée. Je vais maintenant devoir consacrer des fonds à la réparation et à la restauration du gâchis.;;;;;;;;;;x;x
+VIETmisc.8323.a;As if I didn't have enough problems.;Comme si je n'avais pas assez de problèmes.;;;;;;;;;;;;x
+VIETmisc.8324.desc;In parts of [Root.GetName], colorful rain was reported to have fallen for several days. After some deliberation, locals consider this to be a good omen of things to come.;Dans certaines parties de [Root.GetName], des pluies colorées seraient tombées pendant plusieurs jours. Après quelques délibérations, les habitants considèrent que c'est un bon présage des choses à venir.;;;;;;;;;;x;x
+VIETmisc.8324.a;Good to hear.;Bon à entendre.;;;;;;;;;;;;x
+VIETmisc.8325.desc;In parts of [Root.GetName], colorful rain was reported to have fallen for several days. After some deliberation, locals consider this to be a bad omen of things to come.;Dans certaines parties de [Root.GetName], des pluies colorées seraient tombées pendant plusieurs jours. Après quelques délibérations, les habitants considèrent que c'est un mauvais présage des choses à venir.;;;;;;;;;;x;x
+VIETmisc.8325.a;Oh no....;Oh non....;;;;;;;;;;;;x
+VIETmisc.8326.desc;The book I read looked like a typical vapid romance at first. Instead, it was an epic love story with drama, comedy and tragedy, that raised poignant, difficult questions about human morality and mortality. Immensely moved, I now find it hard to fall asleep at night as I think about the characters I'd grown to love and their bittersweet fates. Will I ever read a story like that again?;Le livre que j'ai lu ressemblait au début à une romance idiote typique. Au lieu de cela, c'était une histoire d'amour épique avec drame, comédie et tragédie, qui a soulevé des questions poignantes et difficiles sur la moralité et la mortalité humaines. Immensément ému, je trouve maintenant difficile de m'endormir la nuit en pensant aux personnages que j'aimais et à leur destin doux-amer. Vais-je jamais relire une histoire comme ça ?;;;;;;;;;;x;x
+VIETmisc.8326.a;I never expected to like that kind of story in the first place! ;Je ne m'attendais pas à aimer ce genre d'histoire en premier lieu !;;;;;;;;;;;;x
+VIETmisc.8327.desc;I was watching a play a traveling troupe was performing. Though it was a short and simple love story without much drama or conflict, the characters were likeable and realistic in their motivations and desires. Despite its simplicity and lack of tension, many in the audience loved the story.;Je regardais une pièce jouée par une troupe itinérante. Bien qu'il s'agissait d'une histoire d'amour courte et simple sans beaucoup de drame ou de conflit, les personnages étaient sympathiques et réalistes dans leurs motivations et leurs désirs. Malgré sa simplicité et son manque de tension, de nombreux spectateurs ont adoré l'histoire.;;;;;;;;;;x;x
+VIETmisc.8327.a;Those plebians - it's just some banal fluff!;Ces plébéiens - ce ne sont que des peluches banales !;;;;;;;;;;;;x
+VIETmisc.8327.b;I admit, it brought a smile to my face.;J'avoue, cela m'a fait sourire.;;;;;;;;;;;;x
+VIETmisc.8328.desc;A poet is reciting a tale about a historical event long ago before me and an audience. I realize he just made a mistake, and there are some inaccuracies in his retelling of what happened!;Un poète récite un conte sur un événement historique il y a longtemps devant moi et un public. Je me rends compte qu'il vient de faire une erreur, et il y a des inexactitudes dans son récit de ce qui s'est passé !;;;;;;;;;;x;x
+VIETmisc.8328.a;Don't say anything.;Ne rien dire.;;;;;;;;;;;;x
+VIETmisc.8328.b;Correct him - history should not be lies!;Corrigez-le - l'histoire ne doit pas être un mensonge !;;;;;;;;;;;;x
+VIETmisc.8328.c;Correct him - the true history is more interesting.;Corrigez-le - la véritable histoire est plus intéressante.;;;;;;;;;;;;x
+VIETmisc.8328.d;Correct him - I want to show off my knowledge.;Corrigez-le - je veux montrer mes connaissances.;;;;;;;;;;;;x
+VIETmisc.8329.desc;The book you are reading is dense and full of complex ideas about philosophy and the meaning of life. Even though the characters, plot, and setting are interesting, the book itself is an extremely difficult read and you feel like you cannot finish it.;Le livre que vous lisez est dense et plein d'idées complexes sur la philosophie et le sens de la vie. Même si les personnages, l'intrigue et le cadre sont intéressants, le livre lui-même est une lecture extrêmement difficile et vous avez l'impression que vous ne pouvez pas le terminer.;;;;;;;;;;x;x
+VIETmisc.8329.a;Bear through it - I must discover its meaning!;Poursuivez-le - je dois découvrir sa signification !;;;;;;;;;;;;x
+VIETmisc.8329.b;I give up! I have better things to do.;J'abandonne ! J'ai de meilleures choses à faire.;;;;;;;;;;;;x
+VIETmisc.8330.desc;I was idly reading a book about historical events in ancient times. Suddenly, when I came across a particular section, disjointed images and scenes flashed before my mind, as if I was really there. My servants found me on the ground moments later, having fainted. They were skeptical when I described what happened, but the feelings of sadness, joy, hatred, love - I felt all that!;Je lisais paresseusement un livre sur les événements historiques de l'Antiquité. Soudain, quand je suis tombé sur une section particulière, des images et des scènes disjointes ont défilé devant mon esprit, comme si j'étais vraiment là. Mes serviteurs m'ont retrouvé au sol quelques instants plus tard, après m'être évanoui. Ils étaient sceptiques quand j'ai décrit ce qui s'est passé, mais les sentiments de tristesse, de joie, de haine, d'amour - j'ai ressenti tout ça !;;;;;;;;;;x;x
+VIETmisc.8330.a;Was I really there, in the past? Why am I here now?;J'étais vraiment là, dans le passé ? Pourquoi suis-je ici maintenant ?;;;;;;;;;;;;x
+VIETmisc.8331.desc;You recently took the time to read through various books explaining the exploits and deeds of ancient heroes and warriors. It was informative, and helped you to better understand:;Vous avez récemment pris le temps de lire divers livres expliquant les exploits et les actes des anciens héros et guerriers. C'était instructif et vous a aidé à mieux comprendre :;;;;;;;;;;x;x
+VIETmisc.8331.a;Which tactics and strategies work, and which ones don't.;Quelles tactiques et stratégies fonctionnent et lesquelles ne fonctionnent pas.;;;;;;;;;;;;x
+VIETmisc.8331.b;What makes a person brave and able to fight the odds.;Ce qui rend une personne courageuse et capable de lutter contre les obstacles.;;;;;;;;;;;;x
+VIETmisc.8331.c;How to uphold justice and righteousness among all.;Comment faire respecter la justice et la droiture entre tous.;;;;;;;;;;;;x
+VIETmisc.8332.desc;You recently read a touching story about a pure-hearted romance between a young man and woman who had grown up as neighbors and friends. Their virtue and honesty helped them ensure many hardships so they could be united in marriage.;Vous avez récemment lu une histoire touchante sur une romance au cœur pur entre un jeune homme et une femme qui avaient grandi en tant que voisins et amis. Leur vertu et leur honnêteté les ont aidés à faire face à de nombreuses difficultés afin qu'ils puissent être unis dans le mariage.;;;;;;;;;;x;x
+VIETmisc.8332.a;I hate stupid love stories. Why did I read that?;Je déteste les histoires d'amour stupides. Pourquoi ai-je lu ça ?;;;;;;;;;;;;x
+VIETmisc.8332.b;It was an adorable tale about true love.;C'était un conte adorable sur le véritable amour.;;;;;;;;;;;;x
+VIETmisc.8333.desc;I see two of my servants on the other side of the room. They are trying to make small talk.;Je vois deux de mes domestiques de l'autre côté de la pièce. Ils essaient de faire des petits discours.;;;;;;;;;;x;x
+VIETmisc.8333.a;Listen in on the conversation.;Écouter la conversation.;;;;;;;;;;;;x
+VIETmisc.8334.desc;"Heard any news from the other provinces?"\n"Nothing I'd like to talk about."\n"Bye."\n"Bye.";"Vous avez entendu des nouvelles des autres provinces ?"\n "Rien dont je voudrais parler."\n"Au revoir."\n"Au revoir.";;;;;;;;;;x;x
+VIETmisc.8334.a;That was really awkward.;C'était vraiment gênant.;;;;;;;;;;;;x
+VIETmisc.8334.b;That was actually a coded conversation!;C'était en fait une conversation codée !;;;;;;;;;;;;x
+VIETmisc.8334.b.text;They were secretly exchanging gossip about...;Ils échangeaient secrètement des ragots sur ...;;;;;;;;;;;;x
+VIETmisc.8335.desc;You pass by a wayside shrine on the road. You remember one of the locals telling you that praying at these wayside shrines could bring one various kinds of blessings.;Vous passez par un sanctuaire routier sur la route. Vous vous souvenez que l'un des habitants vous a dit que prier dans ces sanctuaires routiers pouvait apporter différentes sortes de bénédictions.;;;;;;;;;;x;x
+VIETmisc.8335.a;Let me pray to [Root.Religion.GetRandomGodName].;Permettez-moi de prier [Root.Religion.GetRandomGodName].;;;;;;;;;;;;x
+VIETmisc.8335.b;I need to hurry, I have business to attend to.;Je dois me dépêcher, j'ai des affaires à régler.;;;;;;;;;;;;x
+VIETmisc.8336.desc;A wayshrine in [Root.GetName] has recently gained fame for the blessings it supposedly granted to those who pray at it. Pilgrims and travelers are making their way there in droves, seeking the boons it provides.;Un sanctuaire dans [Root.GetName] a récemment acquis une renommée pour les bénédictions qu'il aurait accordées à ceux qui le priaient. Les pèlerins et les voyageurs s'y rendent en masse, à la recherche des bienfaits qu'il procure.;;;;;;;;;;x;x
+VIETmisc.8336.a;Perhaps I should visit there one day.;Je devrais peut-être le visiter un jour.;;;;;;;;;;;;x
+VIETmisc.8337.desc;You are visiting a shop in a town selling various general merchandise on discount, ranging from tableware to rugs and various herbal remedies. It's as if everything's on sale. The shopkeeper tells you, "You don't want the very best. You want cheap. I got cheap.";Vous visitez une boutique dans une ville vendant diverses marchandises générales à prix réduit, allant de la vaisselle aux tapis et divers remèdes à base de plantes. C'est comme si tout était en vente. Le commerçant vous dit: "Vous ne voulez pas le meilleur. Vous voulez pas cher. Je suis devenu bon marché.";;;;;;;;;;x;x
+VIETmisc.8337.a;I like the sound of that! Let me buy some.;J'aime bien cette idée! Laisse-moi acheter quelque chose.;;;;;;;;;;;;x
+VIETmisc.8337.b;You mistake me for a common peasant, good sir!;Vous me confondez avec un paysan commun, bon monsieur !;;;;;;;;;;;;x
+VIETmisc.8337.c;Just browsing - don't mind me.;Je ne fais que passer - ne me dérange pas.;;;;;;;;;;;;x
+VIETmisc.8338.desc;I am at an inn for business. While waiting for the other party to arrive, the innkeeper tells me a story about a local alchemist who lived in the area centuries ago and was famed for his abilities. She says he was also a connoisseur of wines, and developed a special kind of wine that could supposedly improve one's eyesight at night, and it was popular among local guards who had night duty. Local lore knows it as the "Shadow Banish." She then offers me a bottle of this famed wine.;Je suis dans une auberge pour affaires. En attendant l'arrivée de l'autre partie, l'aubergiste me raconte l'histoire d'un alchimiste local qui vivait dans la région il y a des siècles et était réputé pour ses capacités. Il dit qu'il était également un connaisseur des vins, et a développé un type spécial de vin qui pourrait soi-disant améliorer la vue la nuit, et il était populaire parmi les gardes locaux qui avaient un service de nuit. Les traditions locales le connaissent sous le nom de "Shadow Banish". Il me propose alors une bouteille de ce fameux vin.;;;;;;;;;;x;x
+VIETmisc.8338.a;Sure, this can't hurt, right?;Bien sûr, cela ne peut pas faire de mal, non ?;;;;;;;;;;;;x
+VIETmisc.8338.b;No thanks! That looks dangerous.;Non merci ! Ça a l'air dangereux.;;;;;;;;;;;;x
+VIETmisc.8338.c;Can I take it back with me?;Puis-je la rapporter avec moi ?;;;;;;;;;;;;x
+VIETmisc.8338.a.tooltip; \n\nYou ended up feeling rather off later that evening, and that night you had a strange dream about waking up with your hands bound in a horse-drawn cart full of prisoners going down a cold, snowy mountain road.; \n\nVous vous êtes senti plutôt mal dans la soirée et ce soir-là, vous avez fait un étrange rêve de vous réveiller les mains liées dans une charrette tirée par des chevaux pleine de prisonniers qui descendaient une route de montagne froide et enneigée.;;;;;;;;;;;;x
+VIETmisc.8338.c.tooltip; \n\nThough the innkeeper won't sell me the recipe for that wine, I will use my knowledge to see if I can reverse engineer this recipe.; \n\nBien que l'aubergiste ne me vende pas la recette de ce vin, je vais utiliser mes connaissances pour voir si je peux retrouver cette recette.;;;;;;;;;;;;x
+VIETmisc.8339.desc;While traveling, my entourage and I come across a circle of burnt, dead trees. It is an unusual sight and curiosity gets the better of us. As we enter this dark grove we see a large rock surrounded by several spikes with skulls skewered on them. On top is a chest filled with many treasures - gold, jewelry, gems, and more. No one has heard of this location, eerily enough.;En voyageant, mon entourage et moi tombons sur un cercle d'arbres morts et brûlés. C'est une vue inhabituelle et la curiosité l'emporte sur nous. En entrant dans ce bosquet sombre, nous voyons un gros rocher entouré de plusieurs pointes avec des crânes embrochés dessus. Au sommet se trouve un coffre rempli de nombreux trésors - or, bijoux, pierres précieuses et plus encore. Personne n'a entendu parler de cet endroit, assez étrangement.;;;;;;;;;;x;x
+VIETmisc.8339.a;Let's leave - this place seems cursed.;Partons - cet endroit semble maudit.;;;;;;;;;;;;x
+VIETmisc.8339.b;Take the loot with us!;Prendre le butin avec nous !;;;;;;;;;;;;x
+VIETmisc.8340.desc;I meet a local woman who is a renowned dog trainer. Under her expert guidance, she has trained many dogs to be hunters, companions, guards, and more. When I ask her what her secret is, she scoffs and says: "You got your people, and you got your dogs. Dogs are loyal and stupid. People are smart and devious. I'll stick with dogs.";Je rencontre une femme du coin qui est une formatrice de chiens renommée. Sous sa direction experte, elle a formé de nombreux chiens à devenir chasseurs, compagnons, gardes, etc. Quand je lui demande quel est son secret, elle se moque et dit : "Vous avez votre peuple et vous avez vos chiens. Les chiens sont loyaux et stupides. Les gens sont intelligents et sournois. Je vais rester avec les chiens.";;;;;;;;;;x;x
+VIETmisc.8340.a;I cannot disagree.;Je ne peux pas être en désaccord.;;;;;;;;;;;;x
+VIETmisc.8340.b;An interesting perspective.;Une perspective intéressante.;;;;;;;;;;;;x
+VIETmisc.8340.c;But people can be good too!;Mais les gens peuvent aussi être bons !;;;;;;;;;;;;x
+VIETmisc.8341.desc;"I'm here to relieve you," I hear one of my nearby guards say as he takes up his post.\n\n"Another day, another coin," the other one says as he takes his leave.;"Je suis là pour vous soulager", j'entends dire un de mes gardes à proximité alors qu'il prend ses fonctions.\n\n "Un autre jour, une autre pièce de monnaie", dit l'autre en prenant congé.;;;;;;;;;;x;x
+VIETmisc.8341.a;Their hard work is appreciated.;Leur travail acharné est apprécié.;;;;;;;;;;;;x
+VIETmisc.8341.b;They are just doing their duty.;Ils font juste leur devoir.;;;;;;;;;;;;x
+VIETmisc.8341.c;Wait a moment... isn't today your day off?;Attendez un instant ... n'est-ce pas aujourd'hui votre jour de congé ?;;;;;;;;;;;;x
+VIETmisc.8342.desc;On a visit to a village of my realm, I am talking with a guardsman stationed there. He looks around, eyes fearful, as he tells me: "If you have to travel in these parts, by [Root.Religion.GetRandomGodName] stay on the roads. The wilderness just isn't safe anymore. We've had sightings, you see... the demons.";Lors d'une visite dans un village de mon royaume, je parle avec un garde stationné là-bas. Il regarde autour de lui, les yeux effrayés, quand il me dit : "Si vous devez voyager dans ces régions, par [Root.Religion.GetRandomGodName] restez sur les routes. Le désert n'est tout simplement plus sûr. Nous avons eu des observations, vous voyez ... les démons.";;;;;;;;;;x;x
+VIETmisc.8342.a;If demons are about, they're no match for brave men like you.;Si les démons sont là, ils ne sont pas à la hauteur d'hommes courageux comme vous.;;;;;;;;;;;;x
+VIETmisc.8342.b;Hah! Just paranoia. That's ridiculous.;Hah ! Juste de la paranoïa. C'est ridicule.;;;;;;;;;;;;x
+VIETmisc.8342.c;Thanks for letting me know. I'll be careful!;Merci de me le faire savoir. Je ferai attention !;;;;;;;;;;;;x
+VIETmisc.8342.d;Have you heard any news from the other provinces?;Avez-vous entendu des nouvelles des autres provinces ?;;;;;;;;;;;;x
+VIETmisc.8343.desc;A burly woman appears before my court, claiming to be a knight of some knightly order I have never heard of. A few courtiers wonder if she is just a harlot trying to cheat me, but her scarred and rugged face, and brawny build suggests otherwise. Maybe she is an adventurer?;Une femme costaud comparaît devant ma cour, prétendant être un chevalier d'un ordre chevaleresque dont je n'ai jamais entendu parler. Quelques courtisans se demandent si elle n'est qu'une prostituée essayant de me tromper, mais son visage cicatrisé et robuste et sa construction musclée suggèrent le contraire. C'est peut-être une aventurière ?;;;;;;;;;;x;x
+VIETmisc.8343.a;Tell her to go to fight some bandits.;Dites-lui d'aller combattre des bandits.;;;;;;;;;;;;x
+VIETmisc.8343.b;Haha! A woman thinks she can fight?;Haha ! Une femme pense qu'elle peut se battre ?;;;;;;;;;;;;x
+VIETmisc.8343.c;Send her off and ignore her.;Renvoyez-la et ignorez-la.;;;;;;;;;;;;x
+VIETmisc.8344.tooltip; \n\nShe will chicken out or get herself killed, so either way I think that solves the problem cleverly.; \n\nElle va sortir ou se faire tuer, donc dans les deux cas, je pense que cela résout intelligemment le problème.;;;;;;;;;;x;x
+VIETmisc.8344.desc;To my surprise, the woman claiming to be a knight returned to my court after having killed all the bandits. I sent a couple soldiers to investigate and they confirmed her claim. Amazing! These bandits had been terrorizing a village in my realm for a couple years now, and none of my soldiers could beat them.;À ma grande surprise, la femme qui prétendait être chevalier est retournée à ma cour après avoir tué tous les bandits. J'ai envoyé quelques soldats enquêter et ils ont confirmé ses dires. Incroyable ! Ces bandits terrorisaient un village de mon royaume depuis quelques années maintenant, et aucun de mes soldats ne pouvait les battre.;;;;;;;;;;x;x
+VIETmisc.8344.a;Thank her, but do not reward her. She is untrustworthy.;Remerciez-la, mais ne la récompensez pas. Elle n'est pas digne de confiance.;;;;;;;;;;;;x
+VIETmisc.8344.b;Reward the woman but tell her to be on her way afterwards.;Récompensez la femme mais dites-lui de continuer son chemin.;;;;;;;;;;;;x
+VIETmisc.8344.c;Reward the woman and praise her valor before the court.;Récompensez la femme et louez sa valeur devant la court.;;;;;;;;;;;;x
+VIETmisc.8345.desc;The mysterious woman thanks me for giving her a chance. She admits she is a self-proclaimed knight, but for good reason. Long ago, her close friend was robbed and murdered by bandits. She swore an oath of vengeance, which she seeks to fulfill by fighting bandits and finding a righteous lord to serve. She traveled far and wide, wandering across the world upholding justice and punishing evildoers, but never found a lord worthy of her services until now. If you will accept her, despite her unorthodox origins, then she promises to serve you loyally.;La mystérieuse femme me remercie de lui avoir donné une chance. Elle admet qu'elle est un chevalier autoproclamé, mais pour une bonne raison. Il y a longtemps, son amie proche a été volée et assassinée par des bandits. Elle a prêté serment de vengeance, qu'elle cherche à remplir en combattant les bandits et en trouvant un seigneur juste pour servir. Elle a voyagé partout, errant à travers le monde pour défendre la justice et punir les malfaiteurs, mais n'a jamais trouvé de seigneur digne de ses services jusqu'à présent. Si vous l'acceptez, malgré ses origines peu orthodoxes, alors elle promet de vous servir loyalement.;;;;;;;;;;x;x
+VIETmisc.8345.a;Politely decline her offer and tell her to take her reward and be on her way.;Refusez poliment son offre et dites-lui de prendre sa récompense et d'être en route.;;;;;;;;;;;;x
+VIETmisc.8345.b;Invite her to join my court and serve me, as she wishes.;Invitez-la à rejoindre ma cour et à me servir, comme elle le souhaite.;;;;;;;;;;;;x
+VIETmisc.8346.desc;A renowned scholar is visiting me today. He is quite a character. When I ask to talk about himself, he tells me: "I'm a retired scholar. Sleep late, read trashy books. I don't keep up with other scholars' affairs anymore. I spent 40 years studying many different topics and teaching at some schools. Good years, but I don't miss it. Now I'm completely useless, and proud of it.";Un universitaire renommé me rend visite aujourd'hui. Il est tout à fait un personnage. Quand je demande à parler de lui, il me dit: "Je suis un universitaire à la retraite. Dors tard, lis des livres vulgaires. Je ne suis plus au courant des affaires des autres universitaires. J'ai passé 40 ans à étudier de nombreux sujets différents et à enseigner dans certaines écoles. Bonnes années, mais ça ne me manque pas. Maintenant, je suis complètement inutile et fier de ça.";;;;;;;;;;x;x
+VIETmisc.8346.a;Such a waste of intellect!;Quel gaspillage d'intellect !;;;;;;;;;;;;x
+VIETmisc.8346.b;It isn't my place to comment on his lifestyle.;Ce n'est pas à moi de commenter son style de vie.;;;;;;;;;;;;x
+VIETmisc.8346.c;Why don't you find purpose by working for me?;Pourquoi ne trouvez-vous pas un but en travaillant pour moi ?;;;;;;;;;;;;x
+VIETmisc.8347.desc;I met a most interesting woman at the local tavern, who is quite notorious in her village for her openly blasphemous views. She told me: "They call me the God-Hater. Yes. I hate [Root.Religion.GetHighGodName]. And any gods worshipped by anyone. They can all bite my garters. And if you don't like it, YOU can bite my garters, too.";J'ai rencontré une femme très intéressante à la taverne locale, qui est assez connue dans son village pour ses vues ouvertement blasphématoires. Elle m'a dit: "Ils m'appellent le Détractrice-de-Dieu. Oui. Je déteste [Root.Religion.GetHighGodName]. Et tous les dieux adorés par qui que ce soit. Ils peuvent tous mordre mes jarretières. Et si vous ne l'aimez pas, VOUS pouvez mordre mes jarretières aussi.";;;;;;;;;;x;x
+VIETmisc.8347.a;This heretic must be punished by the religious authorities!;Cette hérétique doit être punie par les autorités religieuses !;;;;;;;;;;;;x
+VIETmisc.8347.b;I do not care about what this bizarre madwoman thinks.;Je me fiche de ce que pense cette folle bizarre.;;;;;;;;;;;;x
+VIETmisc.8347.c;I can't anger the religious authorities, but I can respect a kindred spirit.;Je ne peux pas irriter les autorités religieuses, mais je peux respecter un esprit semblable.;;;;;;;;;;;;x
+VIETmisc.8348.desc;There is a widowed noblewoman in a nearby village nicknamed "Runs in Circles" due to her erratic and strange behavior. Though kind and friendly, she went mad years ago. Today, while I passed by this village, she asked me if I had crunchy apples and carrots for her. I told her I did not, and she flew into a panic and ran around in circles continuously screaming "Ni ni ni ni ni!";Il y a une femme noble veuve dans un village voisin surnommé "Court en Rond" en raison de son comportement erratique et étrange. Bien que gentille et amicale, elle est devenue folle il y a des années. Aujourd'hui, alors que je passais par ce village, elle m'a demandé si j'avais des pommes croquantes et des carottes pour elle. Je lui ai dit que non, et elle a paniqué et a couru en rond en criant "Ni ni ni ni ni!";;;;;;;;;;x;x
+VIETmisc.8348.a;I do not have time to deal with this.;Je n'ai pas le temps de m'en occuper.;;;;;;;;;;;;x
+VIETmisc.8348.b;The poor woman! I hope she will be fine.;La pauvre femme ! J'espère qu'elle ira bien.;;;;;;;;;;;;x
+VIETmisc.8348.c;Ha! I like her. Can we invite her to my court?;Ha ! Je l'aime bien. Pouvons-nous l'inviter à ma cour ?;;;;;;;;;;;;x
+VIETmisc.8349.desc;We came across a ruined stone structure that resembles an ancient fort. Feeling adventurous, we explored it a bit given it wasn't that huge, and we found a chest filled with some gold trinkets and jewelry.;Nous sommes tombés sur une structure en pierre en ruine qui ressemble à un ancien fort. Se sentant aventureux, nous l'avons exploré un peu étant donné que ce n'était pas si énorme, et nous avons trouvé un coffre rempli de bibelots et de bijoux en or.;;;;;;;;;;x;x
+VIETmisc.8349.a;Finders keepers!;Trouver, c'est garder !;;;;;;;;;;;;x
+VIETmisc.8349.b;We should not take what belongs to the dead of this place.;Nous ne devons pas prendre ce qui appartient aux morts de cet endroit.;;;;;;;;;;;;x
+VIETmisc.8350.desc;In my dreams, I came to a village situated atop a tall hill, overlooking a gorgeous lake. There was a big problem: a wizard accidentally turned all the villagers invisible. I helped the wizard fix the problem and the villagers became visible again. As I woke up, I wondered what the deeper meaning of that dream was, if there was one. Surely, the dream was telling me that I need to...;Dans mes rêves, je suis arrivé dans un village situé au sommet d'une haute colline, surplombant un magnifique lac. Il y avait un gros problème : un sorcier a accidentellement rendu tous les villageois invisibles. J'ai aidé l'assistant à résoudre le problème et les villageois sont redevenus visibles. En me réveillant, je me suis demandé quelle était la signification profonde de ce rêve, s'il y en avait un. Certes, le rêve me disait que je devais ...;;;;;;;;;;x;x
+VIETmisc.8350.a;Be truthful to myself and others, right?;Soyez honnête envers moi-même et envers les autres, non ?;;;;;;;;;;;;x
+VIETmisc.8350.b;Find out that which is hidden and threatens me.;Découvrez ce qui est caché et me menace.;;;;;;;;;;;;x
+VIETmisc.8350.c;Go out to relax - how beautiful the outside can be!;Sortez pour vous détendre - comme l'extérieur peut être beau !;;;;;;;;;;;;x
+VIETmisc.8350.d;Nothing. The dream was meaningless. Probably.;Rien. Le rêve était vide de sens. Probablement.;;;;;;;;;;;;x
+VIETmisc.8351.desc;In [Root.GetName], there have been several sightings of a supposed giant crab. It is said to hide along beaches and the mudline of rivers, before appearing and terrifying passerby. More skeptical minds believe there is no basis for these claims, as no one has gotten hurt yet.;Dans [Root.GetName], il y a eu plusieurs observations d'un supposé crabe géant. On dit qu'il se cache le long des plages et de la boue des rivières, avant d'apparaître et de terrifier les passants. Les esprits plus sceptiques croient qu'il n'y a aucun fondement à ces affirmations, car personne n'a encore été blessé.;;;;;;;;;;x;x
+VIETmisc.8351.a;Fascinating nevertheless, though!;Fascinant quand même !;;;;;;;;;;;;x
+VIETmisc.8351.b;Is it a sign for someone born under the sign of Cancer like me?;Est-ce un signe pour quelqu'un né sous le signe du Cancer comme moi ?;;;;;;;;;;;;x
+VIETmisc.8352.desc;I peacefully fell asleep, and found myself in the land of dreams. I was an adventurer who had arrived at a large, bustling port city, a picturesque town full of marbled, stone buildings. It was a picturesque town. Anyways, there were many sights to see, both within the city and outside near it, and in the end I decided to...;Je m'endormis paisiblement et me retrouvai au pays des rêves. J'étais un aventurier arrivé dans une grande ville portuaire animée, une ville pittoresque pleine de bâtiments en marbre et en pierre. C'était une ville pittoresque. Quoi qu'il en soit, il y avait beaucoup de sites à voir, à la fois dans la ville et à l'extérieur près d'elle, et finalement j'ai décidé de ...;;;;;;;;;;x;x
+VIETmisc.8352.a;Explore the golden coastline nearby and see what secrets it holds;Explorer la côte dorée à proximité et découvrir ses secrets;;;;;;;;;;;;x
+VIETmisc.8352.b;Make my way to a nearby shrine, nicknamed the Lady's Stone by locals ;Aller dans un sanctuaire voisin, surnommé la Pierre de la Dame par les habitants;;;;;;;;;;;;x
+VIETmisc.8352.c;Visit the docks, and find the houses of pleasure near it;Visiter les quais et trouver les maisons de plaisance à proximité;;;;;;;;;;;;x
+VIETmisc.8352.d;Walk through the streets and take in the sights;Se promener dans les rues et admirer les sites;;;;;;;;;;;;x
+VIETmisc.8353.desc;Some have told me that the process of dying is like stepping into a strange but gentle dream. Is there any truth to this?;;;;;;;;;;;x
+VIETmisc.8353.a;Perhaps. But thinking about this is unhelpful while we're alive.;;;;;;;;;;;;;x
+VIETmisc.8353.b;Life is but a dream as well, is it not?;;;;;;;;;;;;;x
+VIETmisc.8353.c;I won't know for sure until I begin my final journey myself.;;;;;;;;;;;;;x
+VIETmisc.8353.d;The scholars of the [Root.Religion.GetName] faith say that when one dies...;;;;;;;;;;;;;x
+VIETmisc.8354.desc;Ever since I was a child, there was one servant in our family I was always close to and was like a second parent to me. She passed away of old age a couple days ago, and I have been greatly affected by this, feeling drained and mentally exhausted at times, trying to process this event. Strangely, last night, she visited me in a dream.;;;;;;;;;;;x
+VIETmisc.8354.a;I try to recall what happened.;;;;;;;;;;;;;x
+VIETmisc.8355.desc;We met somewhere in my dream - I cannot tell where, but all I recall was some sort of brilliant light, and the feeling of a gentle breeze caressing my face. My servant told me she had always loved me like her own child, but now she had to go. She embraced me, wished me the best in life, and said goodbye for one last time before her final journey. I felt much better after that dream.;;;;;;;;;;;x
+VIETmisc.8355.a;Farewell... but will it be forever?;;;;;;;;;;;;;x
+VIETmisc.8356.desc;One of my trusted servants is on his deathbed. His death will come as a blow to many of us, as we respected the old man for his patience, humility, and wisdom, which he tried his best to impart to us. I and others are by his bedside as his final hour draws near, and I ask him if he is afraid of the end.;;;;;;;;;;;x
+VIETmisc.8356.a;He smiles gently.;;;;;;;;;;;;;x
+VIETmisc.8357.desc;"End? No, the journey doesn't end here," he says. "Death is just another path, one that we all must take. The grey rain-curtain of this world rolls back, and all turns to silver glass. And then you see it.... White shores... and beyond, a far green country under a swift sunrise." He looks at me serenely, before closing his eyes. Several hours later, he passes away. ;;;;;;;;;;;x
+VIETmisc.8357.a;I stay by his bedside for some time, contemplating his words.;;;;;;;;;;;;;x
+VIETmisc.8358.desc;I walk through a vast expanse of green grass, covered above by a sky of pure, pale blue. I come to a river where I see many people. I recognize them all as people in my life who passed away, some many years ago, from relatives and friends to old servants.\n\nOne goes up to me and says in a calm but concerned tone, "Why are you here? You will join us on this journey one day, but it is not your time yet. But you can enjoy the sunshine and fresh air with us for a little longer.";;;;;;;;;;;x
+VIETmisc.8358.a;I wake up peacefully, after spending time relaxing in that strange dream world.;;;;;;;;;;;;;x
+VIETmisc.8359.desc;While walking near my residence, I spotted something on the ground by a patch of grass. To my surprise, I found a rat lying on its side. I was not fearful of it, as I realized it was dying. Its eyes gazed at me with a look full of solemn clarity, in a way one did not expect from such a creature - almost as if it was telling me something. Then, it stopped moving, and passed away.;;;;;;;;;;;x
+VIETmisc.8359.a;There was something profound about it. Life is full of wonders.;;;;;;;;;;;;;x
+VIETmisc.8359.b;That was weird. But a rat's a rat. Well now! Back to my walk.;;;;;;;;;;;;;x
+VIETmisc.8359.c;An extraordinary rat! I'll cover its body with leaves as a sign of respect.;;;;;;;;;;;;;x
+VIETmisc.8360.desc;That night, I dreamt I was standing in front of an old woman I never met before. Despite her age, she carried herself with grace, and she curtsied me. "Thank you for your kind gesture earlier today," she said. "Most would have ignored me. Whatever your intentions, your noble deed brings me peace in the afterlife, and I can move on." When I woke up, I was confused.;;;;;;;;;;;x
+VIETmisc.8360.a;There was no way... could it have been?;;;;;;;;;;;;;x
+VIETmisc.8361.desc;An acquaintance of mine was on his deathbed, unconscious and unresponsive for days. His family had gathered around him to pray and prepare his soul for the afterlife, when all of a sudden, he sat up, alert and sharp. His family was relieved and tried to talk to him, thinking he had recovered somehow, yet he just kept asking for me to come visit.;;;;;;;;;;;x
+VIETmisc.8361.a;I hastened to come to his bedside to witness this little miracle.;;;;;;;;;;;;;x
+VIETmisc.8362.tooltip; \n\nI wonder why he wanted to see me?;;;;;;;;;;;x
+VIETmisc.8362.desc;When I arrived at his house and entered his bedroom, he clapped with joy, and beckoned me to sit next to him. He inquired about various matters of state and provided me advice, claiming it was given to him by the wise spirits of the deceased. We humored him for an hour or so until he said he was tired, and bid all farewell. The moment he closed his eyes, he passed away.;;;;;;;;;;;x
+VIETmisc.8362.a;Strangely, his advice turned out to be actually very helpful. ;;;;;;;;;;;;;x
+VIETmisc.8363.desc;I am pouring over a document at my desk at night when I see an adorable little girl scurrying back and forth in my room. Upon seeing each other, we both stare in confusion, so I ask her who she is and why she's here. "I'm cold and hungry," she mumbles shyly. Feeling sorry for her, I point to some food I had left on my table, and tell her to eat some.;;;;;;;;;;;x
+VIETmisc.8363.a;"Thank you, my [Root.GetLordLady]," she squeaks, before she eats.;;;;;;;;;;;;;x
+VIETmisc.8364.desc;I suddenly wake up, realizing I must have dozed off while reading, and that the little girl must have been from a dream I had. I go to finish the rest of my food, but contrary to what I remember, none of my meal is left, save for a few crumbs.\n\nThe next morning, when I ask about her, I learned her appearance matched one of my guard's daughters, who passed away from illness a few days ago. The guard, a devout [Root.Religion.GetName] believer, tells me he is certain I helped her soul pass into the afterlife, and thanks me.;;;;;;;;;;;x
+VIETmisc.8364.a;She was a polite, kind child. She is surely at peace now.;;;;;;;;;;;;;x
+VIETmisc.8364.b;It must be a coincidence, but if it makes you feel better.;;;;;;;;;;;;;x
+VIETmisc.8365.desc;A trusted guard recently got injured, and while it thankfully isn't too painful, it's clear that it doesn't bode well for his health as he is now bedridden for much of the day. He is old and about to retire, anyways. One morning, you pay a visit when he tells you his grandparents stopped by just before you did. You point out that they died decades ago, but he assures you they did visit.;;;;;;;;;;;x
+VIETmisc.8365.a;Are you really sure? Maybe you are imagining things.;;;;;;;;;;;;;x
+VIETmisc.8365.b;Really! A truly marvelous thing. I hope they mean well.;;;;;;;;;;;;;x
+VIETmisc.8365.c;Perhaps they did come. The universe is full of mysteries.;;;;;;;;;;;;;x
+VIETmisc.8366.desc;You receive word that your trusted guard who recently got injured and was on his deathbed just passed away. Strangely, the day before that, his relatives said he told them that his grandparents came to help him pack for a journey. Could that have been a sign of things to come? Strange things have always preceded death, after all, as the stories tell.;;;;;;;;;;;x
+VIETmisc.8366.a;He will be missed.;;;;;;;;;;;;;x
+VIETmisc.8367.desc;On an official trip, you are passing by one of the villages of your realm. As you leave the borders of the village, you see something odd by a bush and, together with your entourage, go to investigate. To your shock, it is the corpse of a haggard-looking old man in rags. You demand an explanation from the villagers, who say he was the local town beggar who just passed away.;;;;;;;;;;;x
+VIETmisc.8367.a;I see. Very well, it is none of my concern - carry on.;;;;;;;;;;;;;x
+VIETmisc.8367.b;Please dispose of the corpse, will you? It's unclean.;;;;;;;;;;;;;x
+VIETmisc.8367.c;Beggar or not, everyone deserves to be treated with dignity!;;;;;;;;;;;;;x
+VIET_beggars_deserve_dignified_burials_too; \n\nYou make the villagers give the man a proper funeral. Yet instead of being angry, the villagers are moved by your compassion.;;;;;;;;;;;x
+VIETmisc.8368.desc;There are those who argue a quick death is better, for it will be less painful and you won't have as much to worry and ruminate over. Others believe a slow and gradual death is preferable, for it gives one time to let go of regrets, pray, and make peace with one's family, friends, and [Root.Religion.GetHighGodName].;;;;;;;;;;;x
+VIETmisc.8368.a;I prefer a quick death - things are simpler that way.;;;;;;;;;;;;;x
+VIETmisc.8368.b;It's better if one has time to prepare before passing on.;;;;;;;;;;;;;x
+VIETmisc.8369.desc;Several hooligans were recently caught trying to raid a cemetery not too far from where I live, and they were apprehended by the local watchmen. This, of course, is absolutely forbidden out of respect for the spirits of the dead, and it is now up to me to determine the fate of these men.;;;;;;;;;;;x
+VIETmisc.8369.a;Release the desperate, poor men. They've learned their lesson.;;;;;;;;;;;;;x
+VIETmisc.8369.b;To think they wanted to desecrate the dead! Toss them in prison.;;;;;;;;;;;;;x
+VIETmisc.8370.desc;Stories abound of ghosts frequently passing through a village in [Root.GetName]. The locals are of two minds, unsure on how to react to this. Some are terrified, and believe it is best to send in holy men and women to exorcise these restless spirits. Others view this through a more rational lens, seeing it as a blessing and an opportunity to honor and say prayers to the dead. Yet others say these are all just some hallucinations by deranged individuals.;;;;;;;;;;;x
+VIETmisc.8370.a;Strange stories, indeed! Who knows what the truth is?;;;;;;;;;;;;;x
+VIETmisc.8371.desc;In one of the larger villages of [Root.GetName], a respected elder recently passed away. He was beloved by all for his virtue and wisdom. Few had anything bad to say about him. His funeral attracted many who wished to pay their respects to him, and some even claim that his spirit will provide the land with many blessings before he passes into the afterlife.;;;;;;;;;;;x
+VIETmisc.8371.a;May his soul rest in peace.;;;;;;;;;;;;;x
+VIETmisc.8372.desc;Last night, I was in bed when I heard a noise. Alarmed, I sat up, and saw a young man pacing to and fro, as if busy with some matter. He apologized to me for the disturbance, and sheepishly said, "I apologize, my [Root.GetLordLady]. I need to take care of business in the underworld and accidentally stumbled here." We exchanged small talk before he left. The next morning, when I asked the people of my household about it, no one reported ever seeing such a man. It is most bizarre! ;;;;;;;;;;;x
+VIETmisc.8372.a;Maybe it was just a dream, yet it did not feel like a dream....;;;;;;;;;;;;;x
+VIETmisc.8373.desc;I am walking down the road when a pretty young woman in white robes approaches me. On her shoulder is a pet owl, though for some reason I suddenly recall that the sacred animal of the [Root.Religion.GetName] deity of death, Giltine, was an owl. The girl smiles, revealing an oddly long tongue, and she asks if she can kiss me. As her owl flutters away, I feel something is off.;;;;;;;;;;;x
+VIETmisc.8373.a;I hastily make an excuse and leave the stranger alone.;;;;;;;;;;;;;x
+VIETmisc.8373.b;Oh, I'm just nervous! Come to me, my beauty!;;;;;;;;;;;;;x
+VIETmisc.8374.desc;The girl moves forward, but her tongue suddenly extends forth, becoming unnaturally long. Her pretty visage turns into that of an old, withered hag. I am trapped, unable to move. She licks my face, and I feel darkness overtake me.... And then I wake up. It was just a nightmare, but how was I that stupid to be seduced by the Goddess of Death! An ill omen, but at least it was just a dream.;;;;;;;;;;;x
+VIETmisc.8374.a;Right...?;;;;;;;;;;;;;x
+VIETmisc.8375.desc;Shortly before a respected member of the local [Root.Culture.GetName] community died recently, several relatives claimed to witness the shrieking and wailing of banshees, both of gruesome or comely visage. Today, though, I wondered to myself: while people understandably fear these female spirits, isn't it nice to have a warning when something bad might happen?;;;;;;;;;;;x
+VIETmisc.8375.a;At least that's what I think.;;;;;;;;;;;;;x
+VIETmisc.8375.b;It's stupid superstition either way.;;;;;;;;;;;;;x
+VIETmisc.8376.desc.a;[target_VIET_myling_courtier.GetTitledName] claimed that last night, [target_VIET_myling_courtier.GetSheHe] came across a Myling - the ghost of a dead child who had been wrongly killed by its parents. [target_VIET_myling_courtier.GetFirstName] knew it was a dangerous but inescapable situation, and rushed to guide the child to a nearby cemetery, a hallowed ground. Yet, contrary to the scary [Root.Religion.GetName] tales, the child was friendly and thanked [target_VIET_myling_courtier.GetFirstName] for [target_VIET_myling_courtier.GetHerHis] compassion.;;;;;;;;;;;x
+VIETmisc.8376.desc.b;[target_VIET_myling_courtier.GetTitledName] claimed that last night, [target_VIET_myling_courtier.GetSheHe] came across a Myling - the ghost of a dead child who had been wrongly killed by its parents. [target_VIET_myling_courtier.GetFirstName] knew it was a dangerous but inescapable situation, and rushed to guide the child to a nearby cemetery, a hallowed ground. Yet, contrary to the scary [Root.Culture.GetName] tales, the child was friendly and thanked [target_VIET_myling_courtier.GetFirstName] for [target_VIET_myling_courtier.GetHerHis] compassion.;;;;;;;;;;;x
+VIETmisc.8376.a;Ha! An interesting tale. You always loved making up stories.;;;;;;;;;;;;;x
+VIETmisc.8376.b;It's either a dream or a lie. Mylings are vengeful beings, not harmless!;;;;;;;;;;;;;x
+VIETmisc.8376.c;Oh dear! At least the ghost seemed like a kind one.;;;;;;;;;;;;;x
+VIETmisc.8377.desc;On the road, my entourage and I come across a [Root.Religion.GetName] holy man, dressed in robes. He is kneeling on the ground, looking at nowhere in particular, as he chants some prayers.\n\nAfter he finishes, I ask him what he was doing, and he explains that recently, a woman died here in an accident. She was a poor woman with no family, so this holy man, out of compassion, gave her a modest but dignified funeral. He hopes her spirit will find peace with [Root.Religion.GetHighGodName].;;;;;;;;;;;x
+VIETmisc.8377.a;For a mere peasant? What a waste of time.;;;;;;;;;;;;;x
+VIETmisc.8377.b;I understand. Carry on, then. We shan't bother you.;;;;;;;;;;;;;x
+VIETmisc.8377.c;How noble! May we join you in praying for her spirit?;;;;;;;;;;;;;x
+VIETmisc.8378.desc;A most amusing yet strange tale! I know of this noblewoman in my realm who is quite annoying. She's not a bad person, but she's unbelievably chatty and intensely emotional, and if crossed can be quite a nag. Though middle aged, she died a few weeks ago... only to come back to life a few hours later. She said that apparently Death came to get her, but was so fed up with her company that he hurried to take her back home so he could come get her later. She's still healthy today.;;;;;;;;;;;x
+VIETmisc.8378.a;Ha ha! I do feel sorry for old Death.;;;;;;;;;;;;;x
+VIETmisc.8378.b;She was seeing things at the time, but that's funny.;;;;;;;;;;;;;x
+VIETmisc.8379.desc;I rest in bed one evening when I hear a knock on the door. Thinking it is one of my servants, I beckon them in, only to see a pleasant young woman I do not recognize. Suddenly, there is a chill in the air, and the candles flicker out. The stranger looks at me with her dark eyes, and I hold my breath in anticipation. "I am Death," she says in a low, yet soothing whisper. "It's time for...";;;;;;;;;;;x
+VIETmisc.8379.a;Wait... what's going on?;;;;;;;;;;;;;x
+VIETmisc.8380.tooltip; \n\nIs it... is it time for me to go?;;;;;;;;;;;x
+VIETmisc.8380.title;Common Mistake;;;;;;;;;;;x
+VIETmisc.8380.desc;Surprisingly, I am calm as I wait for her to finish - if it is my time to go, there isn't much I can do. But she stops herself and looks around, as if she just realized where she is. Suddenly, the candles are alight once more, and she bows to me.\n\nI look at her in bewilderment as she says, "I'm so sorry! You're the wrong person... I knew I got lost somehow. Dammit... why does this happen to me? I'm so unprofessional. Oh! My sincere apologies, I know this is such an inconvenience to you. And... um, by the way, I know I'm not in any position to ask, but do you by any chance know the way to...";;;;;;;;;;;x
+VIETmisc.8380.a;Um.... Is it the village by the river of.... And it's north of.... I know it!;;;;;;;;;;;;;x
+VIETmisc.8381.tooltip; \n\nTo be fair to her, it is confusing if you've never been there before, so I kindly provide her some directions. I reassure her, when she looks embarrassed, "It's a common mistake everyone makes. The roads in that part can be disorienting!";;;;;;;;;;;x
+VIETmisc.8381.title;Good Directions;;;;;;;;;;;x
+VIETmisc.8381.desc;"Thank you so much!" the maiden says cheerfully, with a beaming smile before she leaves. "I'll be back later, but not today. I wish you nothing but luck and fortune, [Root.GetFirstName]!"\n\nThe next morning, no one knows what I'm talking about when I ask if they saw a girl with the same description as that maiden. I chalk up the whole incident as a dream my sleep-deprived mind concocted, until I later receive news in the afternoon that an acquaintance of mine died last night.\n\nHe happened to live in that village the maiden needed to travel to.;;;;;;;;;;;x
+VIETmisc.8381.a;That absentminded girl who visited me was... Death?;;;;;;;;;;;;;x
+VIETmisc.8381.b;I'm pretty sure it's a coincidence and was just a dream.;;;;;;;;;;;;;x
+VIETmisc.8382.desc;A wandering holy man is stopping by our court today, and telling us stories of the various phenomena he has encountered, as he is sometimes called on by people to resolve supernatural problems. For instance, recently, as he passed by a village in my domain, he had to exorcise a mischievous ghost who made loud noises and threw around objects in a peasant's house.;;;;;;;;;;;x
+VIETmisc.8382.a;Fascinating! Some spirits are just as troublesome as the living.;;;;;;;;;;;;;x
+VIETmisc.8382.b;I am not sure whether I find such a story believable.;;;;;;;;;;;;;x
+VIETmisc.8383.desc;Commoners have always told tales about corpses rising from the dead if their funerals were not performed properly, or if they died in unjust ways. Lately I hear more and more rumors about such occurrences in the region, but the scholars and clergy assure me such things are mere superstitions. No true believer of the [Root.Religion.GetName] faith would ever believe in such drivel!;;;;;;;;;;;x
+VIETmisc.8383.a;I agree very much with the views of the learned men.;;;;;;;;;;;;;x
+VIETmisc.8383.b;You can never be so sure, right? Maybe the peasants are right.;;;;;;;;;;;;;x
+VIETmisc.8384.desc;I was thinking today - all the people who have come and go since the beginning of time.... It is interesting, if somber, to imagine what they would think of us, their descendants, and whether they would be proud or disappointed in us.;;;;;;;;;;;x
+VIETmisc.8384.a;It is a good question.;;;;;;;;;;;;;x
+VIETmisc.8385.desc;When I die one day - as all do, inevitably - will people still remember me?;;;;;;;;;;;x
+VIETmisc.8385.a;Of course! I'm such a great [Root.GetTitle].;;;;;;;;;;;;;x
+VIETmisc.8385.b;Why wouldn't they? They'll still remember.;;;;;;;;;;;;;x
+VIETmisc.8385.c;They won't, and I hate that that is what will happen.;;;;;;;;;;;;;x
+VIETmisc.8385.d;No, but that's not a bad thing. Life will go on!;;;;;;;;;;;;;x
+VIETmisc.8386.desc;I'm paying a visit to an acquaintance of mine, who nearly died in an accident when she was a young woman, and was in fact unconscious for a week after it before she slowly recovered. She said that during that week, she actually had a glimpse of the afterlife, and she said it looked like a simple yet beautiful garden filled with light. The experience moved her greatly.;;;;;;;;;;;x
+VIETmisc.8386.a;Perhaps that is what the afterlife will be. We'll see for sure, one day.;;;;;;;;;;;;;x
+VIETmisc.8387.desc;I'm paying a visit to an acquaintance of mine, who nearly died in an accident when he was a young man, and was in fact unconscious for a week after it before he slowly recovered. He said that during that week, he actually had a glimpse of the afterlife, and he said it looked like a quiet, peaceful beach full of bright sunshine. The experience moved him greatly.;;;;;;;;;;;x
+VIETmisc.8387.a;Perhaps that is what the afterlife will be. We'll see for sure, one day.;;;;;;;;;;;;;x
+VIETmisc.8388.desc;Though my parents have passed away for quite some time, I suddenly recalled a warm, happy memory of them today. Regardless of my feelings about them while they were alive, even after death, my memories of them can bring me joy.;;;;;;;;;;;x
+VIETmisc.8388.a;I am glad.;;;;;;;;;;;;;x
+VIETmisc.8389.desc;In several villages of [Root.GetName], there are reports of strange processions of people at night, wearing somber clothing, and accompanied by bustling winds and a chill in the air. Locals believe that for whatever reason, these are spirits of the dead going to and fro. Others, such as more rational scholars and clergy, think this might simply just be a few scattered accounts of hallucinations.;;;;;;;;;;;x
+VIETmisc.8389.a;Strange times we live in.;;;;;;;;;;;;;x
+VIETmisc.8390.desc;Several heinous murders were recently committed in [Root.GetName], the victims' corpses horrifically mutilated. Authorities were unable to find the perpetrator until local guards devised a cunning ambush and caught him, who turned out to be a young nobleman whom everyone thought was friendly and kind! He cackled with glee as he lunged at the guards and they were forced to kill him, for he preferred to die rather than be caught alive and be brought to trial for his crimes.;;;;;;;;;;;x
+VIETmisc.8390.a;A tragic story. Alas! Such madmen exist.;;;;;;;;;;;;;x
+VIETmisc.8390.b;Reward the guards for their deeds.;;;;;;;;;;;;;x
+VIETmisc.8391.desc;Phantoms were observed in large numbers in a specific region of [Root.GetName], though the witnesses claimed these ghosts were harmless, and were preoccupied with engaging in mundane activities like chatting, enjoying feasts, singing, dancing, and playing various games - almost like as if there was a separate town of ghosts at night. No reputable scholar or clergy has been able to verify these claims.;;;;;;;;;;;x
+VIETmisc.8391.a;We must give these spirits their due respect!;;;;;;;;;;;;;x
+VIETmisc.8391.b;These silly peasants are hallucinating things.;;;;;;;;;;;;;x
+VIETmisc.8392.desc;The death of several important officials in [Root.GetName] around the same time has thrown the region into a bit of chaos, given the difficulties in securing reliable replacements for several positions at the same time. This will likely cause some disruptions to the local administration, but hopefully it will be brief.;;;;;;;;;;;x
+VIETmisc.8392.a;Unfortunate, but let's do our best.;;;;;;;;;;;;;x
+VIETmisc.8392.b;Thankfully, I already prepared some contingency plans.;;;;;;;;;;;;;x
+VIETmisc.8393.desc;A powerful local official in [Root.GetName] recently died. Given his prominence, many mourned at first, until evidence of severe corruption was discovered among his belongings and properties, from bribery to involvement in smuggling to abuses of local peasants. He cunningly covered it all up under his benevolent facade. After all this came out and we learned of the mind-boggling magnitude of his corruption, it's certain province will do much better without him!;;;;;;;;;;;x
+VIETmisc.8393.a;A pity we didn't catch him while he was still alive.;;;;;;;;;;;;;x
+VIETmisc.8394.desc;A hermit has lived in the wilderness of [Root.GetName] for decades, engaging in meditation, prayer, and other spiritual practices. He was kind and always offered spiritual teachings for any who requested it, though he refused all offerings of food, drink, or other luxuries. Now, news arrives that he has passed away while meditating - and yet, his corpse still sits upright, and does not decay at all. Locals have begun to make pilgrimage to receive blessings from the hermit's presence.;;;;;;;;;;;x
+VIETmisc.8394.a;A most interesting development.;;;;;;;;;;;;;x
+VIETmisc.8395.desc;A runestone has recently been discovered in [Root.GetName]. It appears to be centuries old at the least, and though the writing is difficult to read, you were able to find a local scholar who could translate it, and who says the runestone seems to have been carved and raised many generations ago following the death of some important local figure in their honor. Little else can be discerned, given the writing is so worn out and in an ancient style.;;;;;;;;;;;x
+VIETmisc.8395.a;A piece of history, no less!;;;;;;;;;;;;;x
+VIETmisc.8396.desc;An old woman passed away in [Root.GetName] recently. Though a humble villager, this beloved "grandmother of all" lived a very long time - more than a century, some claim - and was of humble and virtuous temperament, doing her best to guide the community and provide her wisdom to all. She received visitors from even local nobles from other villages nearby. There have already been claims that her spirit will bless these lands for many years to come.;;;;;;;;;;;x
+VIETmisc.8396.a;This grandmother will be sorely missed.;;;;;;;;;;;;;x
+VIETmisc.8397.desc;There are many places who ascribe all manner of ill omens to black cats, that seeing one is a portent of death. Today, I just happened to come across a stray black cat.;;;;;;;;;;;x
+VIETmisc.8397.a;I will go away as quickly as I can.;;;;;;;;;;;;;x
+VIETmisc.8397.b;I fear no cat. It even looks sweet.;;;;;;;;;;;;;x
+VIET_silly_rationality_about_black_cat; \n\nThough you feel a strange feeling, as if... something isn't right.;;;;;;;;;;;x
+VIETmisc.8398.desc;The [Root.Culture.GetName] people have always seen black cats as a sign of good luck and fortune, so long as they are treated with respect. Yet I hear tales of people from other lands fearing them as harbingers of death and destruction, and even sad and gut-wrenching tales of black cats being tortured and murdered because of this.;;;;;;;;;;;x
+VIETmisc.8398.a;Such are the strange and horrifying customs of others!;;;;;;;;;;;;;x
+VIETmisc.8399.desc;I am traveling in a less populated and more rugged part of my realm, and my entourage and I come across a number of corpses, and the stench of decaying flesh is noticeable to everyone. Judging by the armor and clothing on the bodies, as well as the wounds on them, it seems that this may have been the scene of a recent battle between rival bandit gangs that infest this region.;;;;;;;;;;;x
+VIETmisc.8399.a;These lowly people deserve to be food for vultures and crows.;;;;;;;;;;;;;x
+VIETmisc.8399.b;Let's properly dispose of these bodies, lest they rise as vengeful spirits!;;;;;;;;;;;;;x
+VIETmisc.8399.c;Bandits or not, we should give them a funeral, to ease their souls.;;;;;;;;;;;;;x
+VIETmisc.8400.desc;I was making my way through a local town market when I felt something was watching me. I looked around and saw nothing, yet could not shake off the feeling. My concerned guards thought maybe I sensed an assassin. A passing holy man noticed my anxiety, and told me cryptically: "Ah, a ghost seems attached to you. Don't worry - it's a gentle spirit who means no harm, and who is more curious and playful than anything. It might even help you out, and will leave you alone once its curiosity has been sated.";;;;;;;;;;;x
+VIETmisc.8400.a;He had disappeared into the crowds before I could question him further.;;;;;;;;;;;;;x
+VIETmisc.8401.desc;A local townsman is accused of abominable crimes! Known for his insatiable lust, he frequents houses of ill repute and tries to seduce any woman, from innocent virgins to old widows. He even went to graveyards at night to fornicate with the lonely female ghosts - or so his accusers claim to have witnessed. Others argue that despite his vices, there is no sound evidence of this.;;;;;;;;;;;x
+VIETmisc.8401.a;Clearly baseless stories made up by his enemies. Ignore the matter.;;;;;;;;;;;;;x
+VIETmisc.8401.b;This man is a necrophiliac! He must be executed immediately!;;;;;;;;;;;;;x
+VIETmisc.8401.c;Such terrible things - he will be imprisoned, make no mistake.;;;;;;;;;;;;;x
+VIETmisc.8402.desc;My servant's pet dog died. As he was really close to the dog, he's been feeling rather dejected and sad, which has been affecting his ability to perform his duties. Perhaps I should say something to him?;;;;;;;;;;;x
+VIETmisc.8402.a;Silly boy, it's just a stupid dog. Get over it.;;;;;;;;;;;;;x
+VIETmisc.8402.b;Shape up or else I'll punish you severely.;;;;;;;;;;;;;x
+VIETmisc.8402.c;Cheer up! We'll find you a new dog.;;;;;;;;;;;;;x
+VIETmisc.8402.d;It's in a better place now but take your time to grieve. ;;;;;;;;;;;;;x
+VIETmisc.8403.desc;While I am in one of the more distant parts of my realm, I come across an ancient tombstone partly buried in the ground. On it are etched the words:\n\nRemember me as you pass by,\nAs you are now, so once was I,\nAs I am now, so you will be,\nPrepare for death and follow me.;;;;;;;;;;;x
+VIETmisc.8403.a;Alas! We are but dust and shadows.;;;;;;;;;;;;;x
+VIETmisc.8404.desc;Last night, I had a most wonderful dream! I found myself basking in a realm of infinite light - nothing but light - and saw before me many men and women, some of whom I recognized as my deceased relatives. Even those I did not recognize I knew were my distant ancestors. We neither talked nor interacted directly, and I merely basked in their benevolent presence.;;;;;;;;;;;x
+VIETmisc.8404.a;After I woke up, I felt most blessed.;;;;;;;;;;;;;x
+VIETmisc.8405.desc;The herbs I bought today should help me stay healthy. Per the physician's instructions, I am to drink it daily as a tonic to maintain my health until I run out of it.;;;;;;;;;;;x
+VIETmisc.8405.a;I hope this is a good investment.;;;;;;;;;;;;;x
+VIETmisc.8406.desc;A quack doctor who had been notoriously operating in the area for some time has finally been arrested for selling fraudulent medical concoctions, some known to be deadly. Unlike other physicians who have proper medicinal training on topics like the four humors and herbology, this one is a conman who wants to dupe idiots and take their money.;;;;;;;;;;;x
+VIETmisc.8406.a;Send him to prison immediately!;;;;;;;;;;;;;x
+VIETmisc.8406.b;Force him to drink one of his poisons!;;;;;;;;;;;;;x
+VIETmisc.8406.c;Let him go. I'm sure he learned his lesson.;;;;;;;;;;;;;x
+VIETmisc.8407.desc;I am listening to a debate between two local physicians on the best way to treat a certain medical ailment. Though I don't understand everything they discuss, their expoundings on various medical theories and ideas, such as the four humors, how the various organs of the body work, and what herbs are most effective, are strangely fascinating.;;;;;;;;;;;x
+VIETmisc.8407.a;How learned they must be!;;;;;;;;;;;;;x
+VIETmisc.8407.b;"You're both incorrect. Galen said that if a person is coughing, and blood and bile...";;;;;;;;;;;;;x
+VIETmisc.8408.desc;A learned man is traveling through town to exchange knowledge with the physicians in the area. He is knowledgeable about medical treatments, particularly surgery, and has invited several of us to go see a demonstration of his surgical skills when he operates on a lesser nobleman. It will be a rather squeamish affair, though. Should I attend?;;;;;;;;;;;x
+VIETmisc.8408.a;I've dealt with worse - this sounds educational!;;;;;;;;;;;;;x
+VIETmisc.8408.b;No. A [Root.GetTitle] like me has more pressing concerns.;;;;;;;;;;;;;x
+VIETmisc.8408.c;Perhaps I can even assist his procedure with my skills.;;;;;;;;;;;;;x
+VIETmisc.8409.desc;I overhear one of my servants muttering, "Oh dear, was it two spoons or three?"\n\nWhen I asked her what she was talking about, she tells me she forgot how much medicine she needed to take for her recent stomach pains.;;;;;;;;;;;x
+VIETmisc.8409.a;Uh... no idea myself. Good luck!;;;;;;;;;;;;;x
+VIETmisc.8409.b;You're clearly a moron if you forgot.;;;;;;;;;;;;;x
+VIETmisc.8409.c;Actually, it should be four spoons.;;;;;;;;;;;;;x
+VIETmisc.8410.desc;One of your courtiers accidentally took the wrong medicine. It appeared they confused two different concoctions they were supposed to take at different times and with different doses. One can only hope there are no significant negative side effects to this!;;;;;;;;;;;x
+VIETmisc.8410.a;Oh dear! That sounds unpleasant.;;;;;;;;;;;;;x
+VIETmisc.8411.desc;You are drinking some herbal tea that is meant to be a good health tonic. However, you drink a little too fast and burn your tongue in front of everyone.;;;;;;;;;;;x
+VIETmisc.8411.a;Ouch! But at least it's good for me!;;;;;;;;;;;;;x
+VIETmisc.8412.desc;I overhear a scholar and a merchant debate the merits of quarantines during plagues. The scholar says that wise men and physicians have always advised that those with contagious diseases must be kept away from the healthy. The merchant says isolating communities will destroy business opportunities and render the settlements impotent and weak. What do I think?;;;;;;;;;;;x
+VIETmisc.8412.a;It is a silly idea - how can we live if we all cower in fear, alone?;;;;;;;;;;;;;x
+VIETmisc.8412.b;We need to listen to the scholars' wisdom to survive hardship.;;;;;;;;;;;;;x
+VIETmisc.8412.c;I honestly don't care about this.;;;;;;;;;;;;;x
+VIETmisc.8413.desc;I had a sore throat earlier and took this herbal concoction to make it better, as some suggested to me. Though I'll admit my throat does feel better, the medicine tasted disgusting!;;;;;;;;;;;x
+VIETmisc.8413.a;Ugh! I can't make that taste go away.;;;;;;;;;;;;;x
+VIETmisc.8414.desc;I stopped by the kitchen to see what my cooks were up to. They are preparing some dishes made with panch poron, a spice mix made from five seeds. Unlike other spice mixes, here, the seeds are not ground into powder.;;;;;;;;;;;x
+VIETmisc.8414.a;Carry on.;;;;;;;;;;;;;x
+VIETmisc.8414.b;Don't use that! I prefer powdered spices.;;;;;;;;;;;;;x
+VIETmisc.8415.desc;My servants give me some traditional Armenian stringed cheese, which often has black caraway added to it for taste. It is a good snack.;;;;;;;;;;;x
+VIETmisc.8415.a;Thank you.;;;;;;;;;;;;;x
+VIETmisc.8416.desc;One of my servants was having shortness of breath earlier today for some unknown reason, and it looked serious until another servant, known for being sharp, immediately grabbed some black caraway and made the other servant eat them. The seed is known for helping with cases of shortness of breath, and helped stabilize the ill servant. While the ill servant has gone to the physician to see if anything is wrong, perhaps I should reward my other quick-witted servant?;;;;;;;;;;;x
+VIETmisc.8416.a;These are just mere servants.;;;;;;;;;;;;;x
+VIETmisc.8416.b;Some nice words and a gift will do.;;;;;;;;;;;;;x
+VIETmisc.8416.c;Promote the servant to a full courtier.;;;;;;;;;;;;;x
+VIETmisc.8417.desc;I was gifted some shampoo made from the juice of a plant called the kaffir lime. It is quite popular in the Orient and said to be effective against lice, dandruff, and other things that might bother the hair and scalp.;;;;;;;;;;;x
+VIETmisc.8417.a;A nice gift, and much appreciated.;;;;;;;;;;;;;x
+VIETmisc.8417.b;Perhaps my spouse might like this?;;;;;;;;;;;;;x
+VIETmisc.8417.c;I have a courtier who might want it.;;;;;;;;;;;;;x
+VIETmisc.8418.desc;It is often tradition in parts of the Balkans to season simple dishes, such as cabbage and cucumber, with the dried leaves and seed of the lovage plant to add some flavor. There are some who claim it can turn even these simple vegetables into something delicious! I tried a sample of lovage mixed in vegetables today.;;;;;;;;;;;x
+VIETmisc.8418.a;It was actually quite good!;;;;;;;;;;;;;x
+VIETmisc.8418.b;Bleh! It's just food of the peasants!;;;;;;;;;;;;;x
+VIETmisc.8419.desc;You are visiting an acquaintance's house and notices she maintains a lot of plants, specifically the mahleb cherry, on her property. It is commonly used for many different breads and desserts in [Root.Culture.GetName] cooking. She says you are welcome to take some back home for your cooks to use.;;;;;;;;;;;x
+VIETmisc.8419.a;Don't mind if I do!;;;;;;;;;;;;;x
+VIETmisc.8419.b;No thanks.;;;;;;;;;;;;;x
+VIETmisc.8420.desc;You are drinking some herbal tea made from the majoram plant. They say it is a symbol of happiness and joy.;;;;;;;;;;;x
+VIETmisc.8420.a;The tea tastes good, too.;;;;;;;;;;;;;x
+VIETmisc.8421.desc;I somehow got myself a lot of mastic. Using it as a chewing gum is said to have many medicinal benefits, on top of reducing any unpleasant odors from my breath.;;;;;;;;;;;x
+VIETmisc.8421.a;It is nice to have.;;;;;;;;;;;;;x
+VIETmisc.8422.desc;The perfumer excitedly shows me his musk perfume. I take a sniff, and note it smells pleasant the way animal musk usually does. Then the perfumer tells me his secret: it is not musk made from animals, but from the oil of the seeds of a medicinal plant, known as the musk mallow, ambrette, or rose mallow. I was fooled there for a good moment!;;;;;;;;;;;x
+VIETmisc.8422.a;A fun idea. I'll buy some!;;;;;;;;;;;;;x
+VIETmisc.8422.b;Let me get some for my spouse.;;;;;;;;;;;;;x
+VIETmisc.8422.c;A nice novelty, but I am not interested.;;;;;;;;;;;;;x
+VIETmisc.8423.desc;The servant asks if I want some mustard seed with my meal.;;;;;;;;;;;x
+VIETmisc.8423.a;No thanks!;;;;;;;;;;;;;x
+VIETmisc.8423.b;A good idea.;;;;;;;;;;;;;x
+VIETmisc.8424.desc;You pass by the market and see a peddler peddling his goods, in particular various spices and herbs. He has a lot of nutmeg this time, and is selling it for a little cheaper than he usually does. When you sample a bit, it is clear that this is real nutmeg and not an attempt at fraud.;;;;;;;;;;;x
+VIETmisc.8424.a;What are we waiting for? I'll buy some!;;;;;;;;;;;;;x
+VIETmisc.8424.b;It's good nutmeg, but I don't need more.;;;;;;;;;;;;;x
+VIETmisc.8425.desc;I was eating some delicious nutmeg flavored sweets when I started feeling unusually ill. My physician said it seems I simply ate too much nutmeg, which in large doses can cause a variety of symptoms.;;;;;;;;;;;x
+VIETmisc.8425.a;Hopefully it goes away soon!;;;;;;;;;;;;;x
+VIETmisc.8426.desc;Someone presented me with a large gift of oregano.;;;;;;;;;;;x
+VIETmisc.8426.a;Looks like we will eat a lot of that for a while.;;;;;;;;;;;;;x
+VIETmisc.8427.desc;I received a gift of some orris oil, made from the orris root. It has a variety of uses. What should I do with it?;;;;;;;;;;;x
+VIETmisc.8427.a;Give it to a perfumer, obviously, to make perfumes.;;;;;;;;;;;;;x
+VIETmisc.8427.b;Allow my cooks use it as tincture to flavor syrup.;;;;;;;;;;;;;x
+VIETmisc.8427.c;Let my physician have access for his herbal medicines.;;;;;;;;;;;;;x
+VIETmisc.8428.desc;We have decorated our hair ornaments with kewra, a fragrance made from the pandan palm.;;;;;;;;;;;x
+VIETmisc.8428.a;It smells nice.;;;;;;;;;;;;;x
+VIETmisc.8429.desc;My cooks have just received a shipment of parsley to use in my food.;;;;;;;;;;;x
+VIETmisc.8429.a;More parsley!;;;;;;;;;;;;;x
+VIETmisc.8430.desc;You have heard that the ancient Greeks held parsley to be paradoxically sacred and evil, for it first sprouted from the blood of one of their heroes according to their legends.;;;;;;;;;;;x
+VIETmisc.8430.a;Come on, that's silly and makes no sense.;;;;;;;;;;;;;x
+VIETmisc.8430.b;Perhaps there is logic behind this.;;;;;;;;;;;;;x
+VIETmisc.8431.desc;I was warned by an elderly servant not to touch or eat parsley. "If you love someone," she said, "then bad things will happen and ruin your love. Parsley is a useful herb, but it is also evil!";;;;;;;;;;;x
+VIETmisc.8431.a;Ha, that's just an old wives tale.;;;;;;;;;;;;;x
+VIETmisc.8431.b;Thank you for telling me!;;;;;;;;;;;;;x
+VIETmisc.8432.desc;You happen to pass through the countryside when you encounter a farmer. Curious about what he does, you ask him about what he grows and the land he farms on, and notice there is one spot he avoids. "Too much parsley grows there," he explains, "and everyone knows that parsley are the herbs that visit hell. ‘tis bad luck.";;;;;;;;;;;x
+VIETmisc.8432.a;That is very wise of you!;;;;;;;;;;;;;x
+VIETmisc.8432.b;What silly superstition.;;;;;;;;;;;;;x
+VIETmisc.8433.desc;You put too much pepper on your food.;;;;;;;;;;;x
+VIETmisc.8433.a;I'll bear with it.;;;;;;;;;;;;;x
+VIETmisc.8433.b;Don't eat it.;;;;;;;;;;;;;x
+VIETmisc.8434.desc;I sit at the windowsill, staring outside. What do I see far away that I observe with great scrutiny?;;;;;;;;;;;x
+VIETmisc.8434.a;Nature's somber awe - plants, the skies, the sun before me.;;;;;;;;;;;;;x
+VIETmisc.8434.b;A group of peasant children playing games outside.;;;;;;;;;;;;;x
+VIETmisc.8434.c;Some of my guardsmen marching around on patrol.;;;;;;;;;;;;;x
+VIETmisc.8434.d;An attractive young [Root.GetManWomanOpp] passing through.;;;;;;;;;;;;;x
+VIETmisc.8434.e;An attractive young [Root.GetManWoman] passing through.;;;;;;;;;;;;;x
+VIETmisc.8435.desc;In my dream, I live in a large mansion of unrivaled beauty, so vast it could not have been built by mundane means. It is a gorgeous residence where I have all the comforts of home - food, drink, and entertainment at my beck and call, and all manner of exotic mechanical and magical contraptions. And yet I am trapped. Every time I try to escape, I end up coming back, somehow!;;;;;;;;;;;x
+VIETmisc.8435.a;This is no way to live! I must be free!;;;;;;;;;;;;;x
+VIETmisc.8435.b;Since it is here before me, I guess I can enjoy it.;;;;;;;;;;;;;x
+VIETmisc.8435.c;Only fools take for granted the gifts they're given.;;;;;;;;;;;;;x
+VIETmisc.8436.desc;You pass by a small ancient ruin while traveling through a village. The peasant acting as your guide tells you of a local folk legend, that centuries ago when a plague struck the area, one of the locals holed himself up in the ruin - as it was his house back then - and died there by himself when he ran out of food and drink. His lonely spirit, supposedly, still haunts the area to this day.;;;;;;;;;;;x
+VIETmisc.8436.a;An interesting tale, I suppose!;;;;;;;;;;;;;x
+VIETmisc.8437.desc;One of my courtiers has been spending time at home an awful lot as of late. When I went to investigate, I learned that they recently picked up board games as a hobby.;;;;;;;;;;;x
+VIETmisc.8437.a;Perhaps I can play a game or two with them.;;;;;;;;;;;;;x
+VIETmisc.8437.b;It's a childish waste of their time.;;;;;;;;;;;;;x
+VIETmisc.8437.c;I can teach you some strategies for your favorite game.;;;;;;;;;;;;;x
+VIETmisc.8438.desc;I am pacing back and forth inside my residence, thinking about this or that, and then I accidentally bump into some of the furniture.;;;;;;;;;;;x
+VIETmisc.8438.a;Whoops! Silly me!;;;;;;;;;;;;;x
+VIETmisc.8439.desc;Some of my young maidservants screamed in terror when a mouse scurried past us one morning. The mouse was nowhere to be found after a quick search, but some of the girls are still scared and worry there may be more mice at my home.;;;;;;;;;;;x
+VIETmisc.8439.a;Poor children. Worry not, the mouse is gone!;;;;;;;;;;;;;x
+VIETmisc.8439.b;Come on now. Grow up already, be a little brave!;;;;;;;;;;;;;x
+VIETmisc.8439.c;The mice are our brothers and sisters, we should respect them.;;;;;;;;;;;;;x
+VIETmisc.8439.d;A worrisome sight! We must remain vigilant.;;;;;;;;;;;;;x
+VIETmisc.8440.desc;I was bored at home with nothing to do one day, so I decided to take a walk around when I overheard some muffled sounds coming from a room. I snuck over and opened the door slightly, and peeked inside. One of my maids and one of my manservants were making love and in the throes of passion, oblivious to the world around them! Though young, they should know better.;;;;;;;;;;;x
+VIETmisc.8440.a;Barge in and order them to stop doing this in public.;;;;;;;;;;;;;x
+VIETmisc.8440.b;Secretly watch them eagerly but don't tell them.;;;;;;;;;;;;;x
+VIETmisc.8440.c;Forget it - it is none of my business.;;;;;;;;;;;;;x
+VIETmisc.8440.d;Tell them later they have your blessing.;;;;;;;;;;;;;x
+VIETmisc.8441.desc;A loud noise is heard outside and on instinct I rush to the window, curious. I look out and see nothing out of the ordinary.;;;;;;;;;;;x
+VIETmisc.8441.a;Odd. Is my imagination playing tricks on me?;;;;;;;;;;;;;x
+VIETmisc.8442.desc;I've been staying up a lot lately out of boredom.;;;;;;;;;;;x
+VIETmisc.8442.a;It's not a healthy thing, but I can't resist.;;;;;;;;;;;;;x
+VIETmisc.8442.b;I'll try to make the most of my bad habit.;;;;;;;;;;;;;x
+VIETmisc.8443.desc;I visited a friend of mine recently. As we took a walk outside and made small talk, they wanted to offer me a present. It turned out to be an oddly shaped metal stick, so I was offended at first. "This is a very good lockpick," I was told. "Once you get the hang of it, you can open any lock. I don't need it, but I think even a great [Root.GetTitle] like you could find use for it.";;;;;;;;;;;x
+VIETmisc.8443.a;Ah! An intriguing gift... but one that could come in handy.;;;;;;;;;;;;;x
+VIETmisc.8443.b;I am a [Root.GetTitle] - I leave dirty work to my spies and assassins!;;;;;;;;;;;;;x
+VIETmisc.8444.desc;I am at a local banquet when the host presents me with a ceramic tankard as a gift. While simple in design, it was clearly created by an expert craftsman, so though I may not necessarily use it in more formal occasions like a great feast, I could keep it for everyday use.;;;;;;;;;;;x
+VIETmisc.8444.a;Thank you for the thoughtful gift.;;;;;;;;;;;;;x
+VIETmisc.8444.b;It is too plain for a [Root.GetTitle] like me.;;;;;;;;;;;;;x
+VIETmisc.8445.desc;A gang of female thieves had been recently preying on male travelers in the nearby area with a unique method. They would first seduce them and offer them erotic delights. Afterwards, they would entice their victim to strip naked. When their victim's guard was down, they would steal the man's belongings before running off, leaving the victim naked and humiliated. Your guards had difficulty catching the culprits until a cunning adventurer helped them ambush the thieves.;;;;;;;;;;;x
+VIETmisc.8445.a;Very good. I don't have money for a reward, though.;;;;;;;;;;;;;x
+VIETmisc.8445.b;Quite impressive. This gift of gold shall do.;;;;;;;;;;;;;x
+VIETmisc.8445.c;Pay them and request they give our guards some tips for the future.;;;;;;;;;;;;;x
+VIETmisc.8445.d;What a talented person - I need them with me at my court.;;;;;;;;;;;;;x
+VIET_siren_anvil_adventurer_hire;The adventurer will join your court, providing you valuable services with their knowledge and skills.;;;;;;;;;;;;;x
+VIETmisc.8446.desc;In my dream last night, I lived in a beautiful cottage. Though simple, it had all manner of convenience, and I had all the food, drink, and entertainment I needed to live a happy life. When I woke up, I found myself missing the place.;;;;;;;;;;;x
+VIETmisc.8446.a;It was a nice dream, all said.;;;;;;;;;;;;;x
+VIETmisc.8447.desc;As you walk through your residence one evening, by chance you look outside - and there, before you, is a most spectacular sight. The sun is setting, and it looks gorgeous. You gaze, speechless, as you admire the union of yellow, orange, red, and pink colors that shine through the few clouds in the sky.;;;;;;;;;;;x
+VIETmisc.8447.a;Amazing.;;;;;;;;;;;;;x
+VIETmisc.8448.desc;You recently heard tales of a land where the sun is always shining, the flowers are always blooming, fruits are always hanging from the trees, and the waters are calm and of a beautiful light blue color. It is said that if one travels far across the sea, one will eventually reach this hidden paradise, and that the natives will welcome one like kin.;;;;;;;;;;;x
+VIETmisc.8448.a;Ha! If I kept sailing across the ocean I doubt I'd find such a land.;;;;;;;;;;;;;x
+VIETmisc.8448.b;One day someone will travel the seas to conquer this land, I'm sure.;;;;;;;;;;;;;x
+VIETmisc.8448.c;The question is whether the natives follow the [Root.Religion.GetName] faith.;;;;;;;;;;;;;x
+VIETmisc.8449.desc;We were traveling in the wilderness when we came across an old ruin. The locals say it was built by long-lost inhabitants of this land, and was perhaps once used as a fortress, or a tomb, or a shrine. We shall never know, for all that remains are a few stones and one lone column. At any rate, my entourage and I rested there for a while, before we made our way.;;;;;;;;;;;x
+VIETmisc.8449.a;Will our monuments be like those ruins, too, one day?;;;;;;;;;;;;;x
+VIETmisc.8450.desc;The baklava bakers of [Root.GetName] have gained some fame as the best in the region. Some people will travel far and wide to sample the tasty, sugary, syrupy delights that the area has become known for.;;;;;;;;;;;x
+VIETmisc.8450.a;Delicious! That reminds me, I need to buy some baklava.;;;;;;;;;;;;;x
+VIETmisc.8451.desc;An exotic traveler from a faraway land is visiting my court today. Though an older gentleman, there is a handsome quality to him that can only come with the wisdom of old age. He has strange but thoughtful ideas, so I enjoy talking with him. We are discussing many fascinating matters when he asks me, "Have you ever heard of Scarborough Fair?";;;;;;;;;;;x
+VIETmisc.8451.a;"Perhaps..." I answer, "but what do you mean by that?";;;;;;;;;;;;;x
+VIETmisc.8452.title;Scarborough Fair;;;;;;;;;;;x
+VIETmisc.8452.desc;"Scarborough is an actual place, but the song, Scarborough Fair, is a most profound ballad about human existence," he says. When I ask him to explain, he sings the song to me:\n\n"Are you going to Scarborough Fair?\nParsley, sage, rosemary, and thyme.\nRemember me to one who lives there\nShe once was a true love of mine."\n\nThe man smiles and hands me a piece of paper. "Though it is an impossible task, we are all traveling to Scarborough Fair, dear friend. keep my copy of the lyrics so you can study the wisdom in its words.";;;;;;;;;;;x
+VIETmisc.8452.a;He smiles at me kindly as I accept his gift.;;;;;;;;;;;;;x
+VIET_swansong_scarborough_fair;"At the end of the road, of the journey we all must take, no matter how impossible, is Scarborough Fair....";;;;;;;;;;;x
 VIETmisc.8453.desc;xxxxx;;;;;;;;;;;x
 VIETmisc.8453.a;Xxxxxxffff;;;;;;;;;;;;;x
 VIETmisc.8454.desc;xxxxx;;;;;;;;;;;x
@@ -1591,3 +1723,203 @@ VIETmisc.8498.desc;xxxxx;;;;;;;;;;;x
 VIETmisc.8498.a;Xxxxxxffff;;;;;;;;;;;;;x
 VIETmisc.8499.desc;xxxxx;;;;;;;;;;;x
 VIETmisc.8499.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8500.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8500.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8501.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8501.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8502.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8502.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8503.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8503.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8504.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8504.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8505.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8505.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8506.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8506.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8507.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8507.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8508.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8508.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8509.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8509.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8510.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8510.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8511.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8511.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8512.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8512.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8513.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8513.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8514.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8514.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8515.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8515.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8516.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8516.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8517.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8517.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8518.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8518.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8519.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8519.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8520.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8520.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8521.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8521.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8522.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8522.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8523.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8523.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8524.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8524.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8525.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8525.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8526.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8526.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8527.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8527.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8528.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8528.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8529.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8529.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8530.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8530.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8531.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8531.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8532.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8532.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8533.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8533.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8534.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8534.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8535.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8535.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8536.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8536.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8537.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8537.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8538.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8538.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8539.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8539.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8540.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8540.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8541.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8541.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8542.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8542.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8543.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8543.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8544.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8544.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8545.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8545.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8546.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8546.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8547.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8547.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8548.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8548.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8549.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8549.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8550.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8550.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8551.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8551.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8552.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8552.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8553.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8553.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8554.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8554.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8555.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8555.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8556.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8556.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8557.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8557.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8558.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8558.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8559.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8559.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8560.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8560.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8561.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8561.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8562.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8562.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8563.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8563.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8564.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8564.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8565.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8565.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8566.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8566.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8567.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8567.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8568.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8568.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8569.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8569.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8570.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8570.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8571.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8571.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8572.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8572.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8573.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8573.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8574.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8574.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8575.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8575.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8576.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8576.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8577.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8577.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8578.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8578.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8579.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8579.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8580.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8580.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8581.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8581.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8582.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8582.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8583.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8583.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8584.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8584.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8585.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8585.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8586.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8586.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8587.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8587.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8588.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8588.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8589.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8589.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8590.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8590.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8591.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8591.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8592.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8592.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8593.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8593.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8594.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8594.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8595.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8595.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8596.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8596.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8597.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8597.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8598.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8598.a;Xxxxxxffff;;;;;;;;;;;;;x
+VIETmisc.8599.desc;xxxxx;;;;;;;;;;;x
+VIETmisc.8599.a;Xxxxxxffff;;;;;;;;;;;;;x

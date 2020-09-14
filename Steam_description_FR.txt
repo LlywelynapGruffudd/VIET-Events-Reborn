@@ -1,4 +1,4 @@
-[h1]Version actuelle : 2.0.9 "Speculum Maius" (Sortie le 17/08/19, Compatible avec le Patch 3.X et le DLC Holy Fury)[/h1]
+[h1]Version actuelle : 2.0.13 "Rhazes" (Sortie le 13/06/20, Compatible avec le Patch 3.X et le DLC Holy Fury)[/h1]
 [b]Consultez [url=https://forum.paradoxplaza.com/forum/index.php?threads/mod-viet-events-reborn-a-reboot-of-the-flavor-event-mod.1141717/]le thread du forum[/url] pour plus d'informations.
 Téléchargement direct disponible sur [url=https://github.com/cybrxkhan/VIET-Events-Reborn/releases]Github[/url].[/b]
 
@@ -35,16 +35,19 @@ Veuillez consulter le fil de discussion du forum pour la liste complète des cr�
 
 [h1]Changelog le plus récent[/h1]
 
-Version 2.0.9 "Speculum Maius"
+Version 2.0.13 "Rhazes"
 
-[I]Le Speculum Maius, ou Grand Miroir, fut une œuvre savante majeure d'un frère français, Vincent de Beauvais, qui vécut au XIIIe siècle. C'est l'une des encyclopédies et compilations de connaissances les plus complètes de l'Europe médiévale, et elle s'appuie sur de nombreuses sources, notamment grecques, latines, arabes et hébraïques. Le texte est divisé en trois parties, appelées le Miroir de la Nature (Speculum Naturale), le Miroir de la Doctrine (Speculum Doctrinale) et le Miroir de l'Histoire (Speculum Historiale).[/I]
+[I]“Le but du médecin est de faire le bien, même à nos ennemis, bien plus encore à nos amis, et ma profession nous interdit de faire du mal à nos semblables, car elle est instituée pour le bénéfice et le bien-être de la race humaine, et Dieu a imposé aux médecins le serment de ne pas composer de remèdes mortifères.”
+
+Rhazes (854 - 925) était un polymathe, alchimiste et médecin persan. Il était l'un des plus grands experts et chercheurs médicaux de son temps, et était également très respecté pour son profond sens de la compassion et de la charité envers tous, y compris les pauvres et les opprimés, qu'il traitait souvent gratuitement. Même après sa mort, ses textes médicaux ont été étudiés pendant des siècles au Moyen-Orient et en Europe.[/I]
 
 [LIST]
-[*]Ajout de 39 événements génériques (principalement inspiré par les images d'événement de la Vanilla que j'ai pas ou peu souvent utilisé)
-[*]Ajout de de 10 événements de république musulmane et 7 événements de république générique (remarque : les événements de république musulmane ne sont pas réservés aux musulmans, vous pouvez en voir si vous êtes dans la bonne région)
-[*]Ajout de 14 nouveaux artefacts : cuillère en étain, baguette de mesure, vase à fleurs, statue ancienne (désert), tête de pierre ancienne, flûte préhistorique, peinture de paysage (ruine), peinture de paysage (lac), peinture de paysage (forêt), sac à dos en cuir, bol en bois, balance, marteau, pelle fidèle.
-[*]Pour les événements qui engendrent des personnages d'une ethnie spécifique, leur culture graphique a maintenant une chance de randomisation (par exemple, un personnage chinois engendré a une chance d'avoir un aspect mongol ou tibétain, mais leur culture sera toujours chinoise).
-[*]L'événement de la province de Cerf Musqué augmente maintenant la prospérité
-[*]Légère augmentation des chances d'avoir des événements de perte d'artefacts
-[*]Divers corrections de bug
+[*]Ajout de 9 événements sur le thème de la Médecine
+[*]Ajout de 20 événements sur le thème des épices et herbes
+[*]Réajout des événements de l'ancien VIET : 10 événements sur le thème de la brosse à dents et de l'hygiène bucco-dentaire
+[*]Rééquilibrage des chances de déclenchement des événements de province pour être généralement plus rare
+[*]Modification de la chaîne d'événements d'Amour Perdu pour avoir plus de temps entre certains événements
+[*]Ajout ou diminution de décadence par rapport à plusieurs événements ajoutés précédemment qui n'avaient pas ces effets auparavant
+[*]Réduction des risques d'obetnir des artefacts d'Ostrakon pour toute personne en dehors de l'Europe, du Moyen-Orient, de l'Inde et de la Méditerranée
+[*]Autres corrections de bugs divers
 [/LIST]
